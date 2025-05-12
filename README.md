@@ -1,5 +1,5 @@
 # Napoleon
-Subtitles for Parts 1 and 2 of the 2024 cut of Abel Gance's Napoléon which attempts to restore his Grande Version.
+Subtitles for Parts 1 and 2 of the 2024 cut of Abel Gance's Napoléon which is a restoration of his Grande Version.
 
 Subtitles are presented for each part as formatted and unformatted .srt files for optimal flexibility.
 
