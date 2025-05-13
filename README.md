@@ -27,3 +27,11 @@ Exactitude: precision, accuracy, historicity.
 
 ### Lyrics
 Where necessary, the lyrics and their English translation have been provided together.
+
+
+## Legal Stuff
+
+I've licensed this under Creative Commons Zero v1.0, which essentially makes it public domain.
+This applies specifically to the work I've done (the translation, the subtitling including breaking and timing, and the .srt files themselves) and not the 2024 cut of the film, which I do not own and hence cannot put under a license.
+
+I have given myself the legal advice to remind you that this section is not legal advice and should not be construed as such. Take care of yourself.
