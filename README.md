@@ -8,6 +8,8 @@ Viewers can override this with their preferred settings using the unformatted .s
 
 Those distributing the film, by whatever means, are encouraged to embed, encode, hard code, or otherwise append these subtitles to the same wherever appropriate.
 
+You may, if you so wish, credit me either as Sylvia Nambiar or SyllabiaMinora but I do not insist on being credited. The subtitles for both parts include a quick credit in an appropriate place before the start of the film.
+
 ## Notes on the Translation and the Subtitling
 The intertitles, titles, and lyrics in French have been translated keeping the tone, rhythm, historicity, and exactitude of the translation at the forefront of the endeavor.
 It is almost always jarring when subtitles clash with what they're supplementing tonally and/or rhythmically, especially — but hardly solely — when the viewer isn't accustomed to subtitles.
