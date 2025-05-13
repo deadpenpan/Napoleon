@@ -12,10 +12,15 @@ It is almost always jarring when subtitles clash with what they're supplementing
 Line breaks for the translations of titles and intertitles are provided at the same place where they are present in the source, in most cases. In some cases, minor but insurmountable differences between standard Englishes and Frenches made it difficult to ensure such breaking while also maintaining legibility in a way that flows the way the title or intertitle does in the source.
 
 So, in a way, the order of priority, as far as it can be schematized, is: Rhythm > Tone > Historicity > Exactitude; however, they bleed into one another quite a bit.
+
 Rhythm: flow, meter, brevity.
+
 Tone: formality, structure, rhythm.
+
 Historicity: facticity, names and spellings, tone.
+
 Exactitude: precision, accuracy, historicity.
+
 
 ### Lyrics
 Where necessary, the lyrics and their English translation have been provided together.
