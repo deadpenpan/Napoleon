@@ -3,6 +3,9 @@ Subtitles for Parts 1 and 2 of the 2024 cut of Abel Gance's Napoléon, which is 
 
 The subtitles are presented for each part as formatted and unformatted .srt files for optimal flexibility.
 
+The formatted .srt version has the subtitles in yellow text with a sans-serif typeface on a translucent black background for optimal legibility in all scenarios.
+Viewers can override this with their preferred settings using the unformatted .srt.
+
 Those distributing the film, by whatever means, are encouraged to embed, encode, hard code, or otherwise append these subtitles to the same wherever appropriate.
 
 ## Notes on the Translation and the Subtitling
