@@ -1,0 +1,2343 @@
+1
+00:00:00,000 --> 00:00:04,360
+CANNES FESTIVAL
+OFFICIAL SELECTION 2024
+CANNES CLASSICS
+
+2
+00:00:06,400 --> 00:00:08,039
+La Cinémathèque française presents
+
+3
+00:00:08,039 --> 00:00:09,919
+Napoléon as Seen by Abel Gance (1927)
+
+4
+00:00:09,919 --> 00:00:14,759
+Reconstructed and restored under the guidance of Georges Mourier, assisted by Laure Marchaut,
+
+5
+00:00:14,759 --> 00:00:20,359
+with the help of the Eclair Classics/L'Image Retrouvée laboratories, set to music by Simon Cloquet-Lafollye.
+
+6
+00:00:20,399 --> 00:00:23,600
+The restoration work was carried out by La Cinémathèque française
+
+7
+00:00:23,600 --> 00:00:27,160
+with the aid of the Centre national du cinéma et de l'image animée and 
+
+8
+00:00:27,160 --> 00:00:30,440
+the Centre national de la musique in partnership with Radio France.
+
+9
+00:00:30,440 --> 00:00:35,159
+To film his Napoléon, Abel Gance shot with several cameras, generating two different negatives and hence two original versions:
+
+10
+00:00:35,159 --> 00:00:38,320
+one called "Opéra" (Premiered at the Opéra de Paris, 4 April 1927, 4 hours long)
+
+11
+00:00:38,320 --> 00:00:43,520
+the second called "Apollo" (presented to the press and the operators of the Apollo theater in May 1927, 9 hours and 30 minutes long).
+
+12
+00:00:43,520 --> 00:00:47,520
+Gance then established a final version from the Apollo negative alone, of a length of around 7 hours.
+
+13
+00:00:47,520 --> 00:00:53,439
+It is on this definitive version called the "Grande Version" that the restoration carried out by La Cinémathèque française between 2015 and 2022 is based.
+
+14
+00:00:53,439 --> 00:00:59,520
+The splitting of the film into two parts was carried out from the Abel Gance archives preserved at La Cinémathèque française and la Bibliothèque nationale de France.
+
+15
+00:00:59,520 --> 00:01:06,319
+It includes the final triptych called "Departure of the Army from Italy" according to the three-screen projection process conceived by Gance that he would later name "Polyvision".
+
+16
+00:01:06,439 --> 00:01:10,120
+The reconstruction and restoration of images were carried out from elements preserved in the following archives:
+
+
+17
+00:01:10,120 --> 00:01:15,280
+La Cinémathèque française, Centre national du cinéma et de l'image animée, la Cinémathèque de Toulouse, la Cinémathèque royale de Belgique (Bruxelles),
+
+18
+00:01:15,280 --> 00:01:20,400
+la Cinémathèque de Corse-Casa di Lume, la Cinémathèque du Luxembourg, The Danish Film Institute (Copenhagen), Filmoteca de Catalunya (Barcelona),
+
+19
+00:01:20,400 --> 00:01:26,040
+Fondazione Centro Sperimentale di Cinematografia-Cineteca Nazionale (Roma), Jugoslovenska Kinoteka (Beograd), MoMA (New York), and several private collections.
+
+20
+00:01:26,040 --> 00:01:30,799
+The elements were digitized in total immersion in 5K at the Eclair Classics/L'Image Retrouvée laboratories with the help of Nitroscan.
+
+21
+00:01:30,799 --> 00:01:33,239
+The digital elements were conformed, restored, tinted, and calibrated.
+
+22
+00:01:33,439 --> 00:01:39,400
+Abel Gance did not give instructions for the musical accompaniment of the definitive version called the "Grande Version", la Cinémathèque francaise entrusted
+
+23
+00:01:39,400 --> 00:01:45,400
+composer Simon Cloquet-Lafollye with the order of an original score constituted by arrangements of pieces drawing from a symphonic repertoire going from Mozart to Penderecki.
+
+24
+00:01:45,400 --> 00:01:49,159
+This score was executed and recorded by Radio France's musical formations (Orchestre National de France,
+
+25
+00:01:49,159 --> 00:01:54,359
+Orchestre Philharmonique et Choeur de Radio France) under the guidance of Fabien Gabel with the participation of the tenor Benjamin Bernheim.
+
+26
+00:02:08,719 --> 00:02:10,840
+Translated and subtitled by Sylvia Nambiar (SyllabiaMinora)
+
+27
+00:02:14,879 --> 00:02:28,080
+LA SOCIÉTÉ GÉNÉRALE DE FILMS
+and
+The FRENCH COMPANY GAUMONT-METRO-GOLDWYN
+present:
+
+28
+00:02:29,599 --> 00:02:37,400
+NAPOLÉON
+
+29
+00:02:37,400 --> 00:02:40,039
+Napoléon as Seen by Abel Gance
+
+30
+00:02:40,039 --> 00:02:48,840
+as Seen by Abel Gance
+
+31
+00:02:48,840 --> 00:02:57,520
+A cinegraphic epic in two parts
+
+32
+00:02:57,759 --> 00:03:07,240
+The triple-screen process at the end of the second part is one of Abel Gance's inventions.
+
+33
+00:03:07,240 --> 00:03:17,439
+Its use for shooting was patented by André Debrie, and for projection by the House of Gaumont.
+
+34
+00:03:17,759 --> 00:03:26,759
+Director of Photography: J. Kruger
+
+35
+00:03:27,919 --> 00:03:34,000
+Operators:
+Mr Mundviller
+and
+
+36
+00:03:34,000 --> 00:03:40,199
+Messrs L. Lucas, R. Hubert,
+E. Pierre, P. Briquet.
+
+37
+00:03:40,520 --> 00:03:46,400
+FIRST ERA
+BONAPARTE
+
+38
+00:03:46,400 --> 00:03:52,960
+with
+Albert Dieudonné
+in the role of
+Napoléon Bonaparte
+
+39
+00:04:03,280 --> 00:04:09,479
+“I would like to be my
+“posterity and witness
+“what a poet would make
+
+40
+00:04:09,479 --> 00:04:14,719
+“me think, feel,
+“and say.”
+(Napoléon)
+
+41
+00:04:16,160 --> 00:04:31,800
+ All the texts, speeches, and narratives taken literally from History are followed by the mention: “Hist.”
+
+42
+00:04:36,600 --> 00:04:44,839
+Prologue
+BRIENNE
+
+43
+00:04:47,240 --> 00:04:57,920
+Then came the memorable winter of 1781
+where the snow piles up in the
+courtyard of the Ecole de Brienne.
+(Hist.)
+
+44
+00:05:11,959 --> 00:05:18,600
+Napoléon Bonaparte
+at the age of 11 years...
+Mr. Vladimir Roudenko
+
+45
+00:06:06,560 --> 00:06:13,199
+... had sworn to resist with
+ten comrades in a fort
+he built himself...
+
+46
+00:06:16,920 --> 00:06:22,079
+... the assaults
+of forty artillerymen.
+(Hist.)
+
+47
+00:06:41,639 --> 00:06:46,160
+The Minim Friars who
+encourage these combats
+
+48
+00:06:46,160 --> 00:06:50,839
+and applaud the students
+distinguished by their address
+
+49
+00:06:50,839 --> 00:06:55,680
+or the invention of some
+stratagem, emboldened this day
+
+50
+00:06:55,680 --> 00:07:01,079
+by an all too vivid curiosity...
+(Hist.)
+
+51
+00:07:40,839 --> 00:07:46,519
+The two leaders of the opposite camp
+Phélipeaux and Peccaduc, personal
+
+52
+00:07:46,519 --> 00:07:52,040
+enemies of Napoléon in Brienne
+and that by a troubling chance
+
+53
+00:07:52,040 --> 00:07:57,360
+we find standing
+againt him for 15 years on
+
+54
+00:07:57,360 --> 00:08:03,319
+most of the battlefields
+of the Empire.
+(Hist.)
+
+55
+00:08:18,519 --> 00:08:21,319
+Thinking of surprising Napoléon
+
+56
+00:09:16,399 --> 00:09:22,200
+Tristan Fleuri,
+refectory boy.
+
+Mr Koline
+
+57
+00:11:16,799 --> 00:11:18,759
+“Watch out Napoléon!...”
+
+58
+00:11:26,000 --> 00:11:29,679
+“Phélipeaux puts stones
+in his snowballs!”
+
+59
+00:13:24,960 --> 00:13:27,519
+“Thank you!”
+
+60
+00:15:17,519 --> 00:15:23,720
+Already possessing an unprecedented
+mastery, he dictated the
+
+61
+00:15:23,720 --> 00:15:29,960
+movements, immobile in the
+center of the brawls.
+(Historical)
+
+62
+00:19:44,200 --> 00:19:47,200
+“Let the victor of the combat
+come here.”
+
+63
+00:19:57,000 --> 00:19:58,720
+“Your name?”
+(Hist.)
+
+64
+00:20:00,920 --> 00:20:06,559
+“Napoléon.”
+(with a Corsican accent,
+he pronounced it Nabulioné)
+(Hist.)
+
+65
+00:20:09,160 --> 00:20:14,759
+“How do you say it?
+Straw nose?....”
+(Hist.)
+
+66
+00:20:31,279 --> 00:20:38,480
+“Little one, you will go far,
+remember that it is Pichegru
+who told you so.”
+(Hist.)
+
+67
+00:21:41,599 --> 00:21:46,480
+The geography lesson:
+study on the climate of islands.
+
+68
+00:22:49,160 --> 00:22:53,200
+“As for Corsica, this
+almost savage island...”
+
+69
+00:23:13,400 --> 00:23:16,839
+As for Corsica, the most beautiful
+island in the world, the climate
+there is...
+
+70
+00:23:38,559 --> 00:23:39,839
+“Oh... I forgot!”
+
+71
+00:23:44,599 --> 00:23:47,599
+“A small islet lost in
+the Ocean...”
+
+72
+00:24:12,359 --> 00:24:15,400
+“Saint Helena, a small island...”
+
+73
+00:24:28,720 --> 00:24:34,039
+St helena small island
+
+74
+00:25:49,559 --> 00:25:53,880
+I am very unhappy
+here, and my heart
+
+75
+00:25:53,880 --> 00:25:57,920
+is not made for
+these people who surround me.
+“Historical”
+
+76
+00:25:59,880 --> 00:26:04,359
+I wait since I want
+to one day free
+my country.
+
+77
+00:26:04,359 --> 00:26:08,400
+What do we know? The fate
+of an Empire often depends
+on one man.
+
+78
+00:26:08,400 --> 00:26:11,359
+-Napoléon
+“Historical”
+
+79
+00:26:31,119 --> 00:26:33,799
+“Sir, Napoléon hides
+letters in his bed!”
+
+80
+00:27:20,440 --> 00:27:24,319
+Bonaparte's only
+comforter in the attic
+of Tristan Fleuri.
+
+81
+00:27:44,359 --> 00:27:53,039
+A proud companion in misfortune,
+a gift from uncle Paraviccini,
+a great hunter of eagles
+in Ajaccio.
+
+82
+00:30:13,720 --> 00:30:16,119
+“Who is it that made my
+eagle flee?”
+
+83
+00:30:55,960 --> 00:30:58,640
+“So, you are all
+culpable!”
+
+84
+00:33:22,559 --> 00:33:24,799
+“What do you think you are, little
+rascal?”
+
+85
+00:34:17,280 --> 00:34:23,760
+“I maintain that he will go far.
+He is granite heated in
+a volcano.”
+
+86
+00:38:37,880 --> 00:38:43,400
+End of the
+Prologue
+
+87
+00:38:46,920 --> 00:38:52,000
+First Part
+NAPOLÉON
+and
+THE FRENCH REVOLUTION
+
+88
+00:38:53,239 --> 00:38:57,400
+June 1972
+At Cordeliers Club.
+
+89
+00:38:58,199 --> 00:39:04,639
+DEATH TO THE TYRANTS
+
+90
+00:39:59,280 --> 00:40:03,480
+Danton's secretary,
+Camille Desmoulins...
+(Mr. Vidalin)
+
+91
+00:40:03,480 --> 00:40:07,440
+and his wife Lucile.
+(Ms. Francine Mussey)
+
+92
+00:41:56,159 --> 00:41:59,159
+The three gods...
+
+93
+00:42:07,159 --> 00:42:09,679
+DANTON...
+(Mr. Koubitzky)
+
+94
+00:42:19,719 --> 00:42:21,880
+... MARAT...
+(Mr. Antonin Artaud)
+
+95
+00:42:33,599 --> 00:42:36,119
+... ROBESPIERRE.
+(Mr. Edmond van Daële)
+
+96
+00:43:07,039 --> 00:43:08,000
+“Babblers!”
+
+97
+00:44:34,039 --> 00:44:43,920
+“Your friend Diétrich sends you
+an officer of the Rhine Army
+bearing a song
+that he believes useful to the people.
+
+98
+00:44:43,920 --> 00:44:48,719
+Can we distribute
+the copies
+by attending the session?”
+
+99
+00:47:33,039 --> 00:47:37,360
+The tense crowd felt
+vaguely that a great
+
+100
+00:47:37,360 --> 00:47:41,920
+flame was going to rise
+within the history of
+the world.
+
+101
+00:48:12,480 --> 00:48:15,599
+♪ Allons enfants de la Patrie, ♪
+[♪ Arise, children of the Fatherland, ♪]
+
+102
+00:48:15,599 --> 00:48:19,159
+♪ Le jour de gloire est arrivé ! ♪
+[♪ The day of glory has arrived! ♪]
+
+103
+00:48:19,159 --> 00:48:22,400
+♪ Contre nous de la tyrannie ♪
+[♪ Against us, of tyranny ♪]
+
+104
+00:48:22,400 --> 00:48:28,800
+𝄆 L'étendard sanglant est levé, 𝄇
+[𝄆 The blood-stained standard is raised, 𝄇]
+
+105
+00:48:28,800 --> 00:48:32,519
+♪ Entendez-vous dans les campagnes ♪
+[♪ Do you hear in the countryside, ♪]
+
+106
+00:48:32,519 --> 00:48:36,119
+♪ Mugir ces féroces soldats ? ♪
+[♪ Those blood-thirsty soldiers ablare? ♪]
+
+107
+00:48:36,119 --> 00:48:39,039
+♪ Ils viennent jusque dans vos bras ♪
+[♪ They're coming right into your arms ♪]
+
+108
+00:48:39,039 --> 00:48:42,800
+♪ Égorger vos fils, vos compagnes ! ♪
+[♪ To tear the throats of your sons, your wives! ♪]
+
+109
+00:48:43,280 --> 00:48:46,280
+𝄆 Aux armes, citoyens,
+[𝄆 To arms, citizens,]
+
+110
+00:48:46,280 --> 00:48:50,239
+Formez vos bataillons,
+[Form up your battalions]
+
+111
+00:48:50,239 --> 00:48:54,039
+Marchons, marchons !
+[March on, march on!]
+
+112
+00:48:54,039 --> 00:48:57,440
+Qu'un sang impur
+[Let blood impure]
+
+113
+00:48:57,440 --> 00:49:00,960
+Abreuve nos sillons ! 𝄇
+[Water our furrows! 𝄇]
+
+114
+00:49:30,559 --> 00:49:31,239
+“Your name?”
+
+115
+00:49:32,559 --> 00:49:34,440
+“Rouget de Lisle.”
+(Mr Harry Krimer)
+
+116
+00:51:05,280 --> 00:51:06,880
+“People, sit down!”
+
+117
+00:51:41,000 --> 00:51:42,599
+“Let us learn, my children.”
+
+118
+00:51:59,400 --> 00:52:05,320
+(discordantly) ♪ Allons enfants de la Patrie, ♪
+[♪ Arise, children of the Fatherland, ♪]
+
+119
+00:52:05,320 --> 00:52:10,800
+♪ Le jour de gloire est arrivé ! ♪
+[♪ The day of glory has arrived! ♪]
+
+120
+00:52:10,800 --> 00:52:14,039
+♪ Contre nous de la tyrannie ♪
+[♪ Against us, of tyranny ♪]
+
+121
+00:52:16,800 --> 00:52:21,719
+(harmonically) ♪ Contre nous de la tyrannie ♪
+[♪ Against us, of tyranny ♪]
+
+122
+00:52:21,719 --> 00:52:31,960
+𝄆 L'étendard sanglant est levé, 𝄇
+[𝄆 The blood-stained standard is raised, 𝄇]
+
+123
+00:52:31,960 --> 00:52:36,320
+♪ Entendez-vous dans les campagnes ♪
+[♪ Do you hear in the countryside, ♪]
+
+124
+00:52:36,320 --> 00:52:41,719
+♪ Mugir ces féroces soldats ? ♪
+[♪ Those blood-thirsty soldiers ablare? ♪]
+
+125
+00:52:41,920 --> 00:52:47,000
+♪ Ils viennent jusque dans vos bras ♪
+[♪ They're coming right into your arms ♪]
+
+126
+00:52:47,000 --> 00:52:52,400
+♪ Égorger vos fils, vos compagnes ! ♪
+[♪ To tear the throats of your sons, your wives! ♪]
+
+127
+00:52:53,280 --> 00:52:58,440
+𝄆 Aux armes, citoyens,
+[𝄆 To arms, citizens,]
+
+128
+00:52:58,840 --> 00:53:02,920
+Formez vos bataillons,
+[Form up your battalions]
+
+129
+00:53:03,280 --> 00:53:07,079
+Marchons, marchons !
+[March on, march on!]
+
+130
+00:53:07,079 --> 00:53:10,480
+Qu'un sang impur
+[Let blood impure]
+
+131
+00:53:10,480 --> 00:53:14,000
+Abreuve nos sillons ! 𝄇
+[Water our furrows! 𝄇]
+
+132
+00:53:14,320 --> 00:53:17,519
+𝄆 Aux armes, citoyens,
+[𝄆 To arms, citizens,]
+
+133
+00:53:18,039 --> 00:53:21,239
+Formez vos bataillons,
+[Form up your battalions]
+
+134
+00:53:21,760 --> 00:53:25,039
+Marchons, marchons !
+[March on, march on!]
+
+135
+00:53:25,679 --> 00:53:29,079
+Qu'un sang impur
+[Let blood impure]
+
+136
+00:53:29,199 --> 00:53:32,719
+Abreuve nos sillons ! 𝄇
+[Water our furrows! 𝄇]
+
+137
+00:53:38,159 --> 00:53:40,800
+“They all bray
+like asses!”
+
+138
+00:55:10,599 --> 00:55:14,039
+“Thank you on behalf of France,
+Monsieur,
+
+139
+00:55:14,039 --> 00:55:17,599
+your hymn will replace
+thousands of cannons.”
+
+140
+00:55:26,159 --> 00:55:29,679
+“Thank you, Lieutenant,
+tell me your name so
+
+141
+00:55:29,679 --> 00:55:33,280
+that I may remember
+your prediction.”
+
+142
+00:55:36,199 --> 00:55:38,119
+“Napoléon Bonaparte.”
+(Mr. Albert Dieudonné)
+
+143
+00:55:38,840 --> 00:55:43,119
+♪ Allons enfants de la Patrie, ♪
+[♪ Arise, children of the Fatherland, ♪]
+
+144
+00:55:43,119 --> 00:55:47,480
+♪ Le jour de gloire est arrivé ! ♪
+[♪ The day of glory has arrived! ♪]
+
+145
+00:55:47,480 --> 00:55:51,800
+♪ Contre nous de la tyrannie ♪
+[♪ Against us, of tyranny ♪]
+
+146
+00:55:51,800 --> 00:56:00,880
+𝄆 L'étendard sanglant est levé, 𝄇
+[𝄆 The blood-stained standard is raised, 𝄇]
+
+147
+00:56:00,880 --> 00:56:05,239
+♪ Entendez-vous dans les campagnes ♪
+[♪ Do you hear in the countryside, ♪]
+
+148
+00:56:05,239 --> 00:56:10,639
+♪ Mugir ces féroces soldats ? ♪
+[♪ Those blood-thirsty soldiers ablare? ♪]
+
+149
+00:56:10,639 --> 00:56:13,880
+♪ Ils viennent jusque dans vos bras ♪
+[♪ They're coming right into your arms ♪]
+
+150
+00:56:13,880 --> 00:56:18,480
+♪ Égorger vos fils, vos compagnes ! ♪
+[♪ To tear the throats of your sons, your wives! ♪]
+
+151
+00:56:18,800 --> 00:56:22,880
+𝄆 Aux armes, citoyens,
+[𝄆 To arms, citizens,]
+
+152
+00:56:22,880 --> 00:56:26,719
+Formez vos bataillons,
+[Form up your battalions]
+
+153
+00:56:26,719 --> 00:56:30,519
+Marchons, marchons !
+[March on, march on!]
+
+154
+00:56:31,000 --> 00:56:34,400
+Qu'un sang impur
+[Let blood impure]
+
+155
+00:56:34,679 --> 00:56:38,199
+Abreuve nos sillons ! 𝄇
+[Water our furrows! 𝄇]
+
+156
+00:56:40,800 --> 00:56:44,000
+𝄆 Aux armes, citoyens,
+[𝄆 To arms, citizens,]
+
+157
+00:56:44,519 --> 00:56:47,719
+Formez vos bataillons,
+[Form up your battalions]
+
+158
+00:56:48,239 --> 00:56:53,000
+Marchons (marchons), marchons (marchons) !
+[March on (march on), march on (march on)!]
+
+159
+00:56:53,679 --> 00:56:57,079
+Qu'un sang impur
+[Let blood impure]
+
+160
+00:56:57,199 --> 00:57:00,719
+Abreuve nos sillons ! 𝄇
+[Water our furrows! 𝄇]
+
+161
+00:57:02,039 --> 00:57:05,239
+𝄆 Aux armes, citoyens,
+[𝄆 To arms, citizens,]
+
+162
+00:57:05,760 --> 00:57:08,960
+Formez vos bataillons,
+[Form up your battalions]
+
+163
+00:57:09,400 --> 00:57:12,840
+Marchons (marchons), marchons (marchons) !
+[March on (march on), march on (march on)!]
+
+164
+00:57:12,840 --> 00:57:15,920
+Qu'un sang impur
+[Let blood impure]
+
+165
+00:57:15,920 --> 00:57:20,679
+Abreuve nos sillons ! 𝄇
+[Water our furrows! 𝄇]
+
+166
+00:57:27,880 --> 00:57:34,599
+Napoléon lived in Paris
+in misery.
+
+167
+00:57:59,559 --> 00:58:06,440
+The strollers, including Josephine
+de Beauharnais, sought
+
+168
+00:58:06,440 --> 00:58:13,239
+this morning the famous
+seer, Mademoiselle
+Lenormant.
+
+169
+00:59:45,559 --> 00:59:52,360
+“An incredible fortune... you
+will be QUEEN, madame!”
+
+170
+01:00:06,800 --> 01:00:13,400
+Bonaparte's misery
+was nothing in relation
+to that of the suburbs...
+
+171
+01:00:50,679 --> 01:00:58,400
+The hearts sing, but
+the stomachs scream of hunger
+and the night of 10 August bursts
+
+172
+01:00:58,400 --> 01:01:04,360
+abruptly, bringing
+to Bonaparte echos
+of a crumbling throne...
+
+173
+01:01:22,559 --> 01:01:28,920
+What remains
+of a great event, seen
+in a small room.
+
+174
+01:02:08,119 --> 01:02:14,679
+Anything that involves
+carnage is worthless,
+if one is not careful,
+
+175
+01:02:14,679 --> 01:02:20,039
+the best fruits of
+the Revolution will be
+lost.
+(Hist.)
+
+176
+01:02:27,719 --> 01:02:34,039
+At the National Assembly,
+the agony of the ROYALTY.
+
+177
+01:02:34,039 --> 01:02:44,199
+(The King Louis XVI:
+Mr. Louis Sance)
+(The Queen Marie Antoinette:
+Ms. Suzanne Blanchetti)
+
+178
+01:04:00,400 --> 01:04:05,480
+“If the Revolution
+is a furnace,
+it is also a forge!
+
+179
+01:04:05,480 --> 01:04:09,119
+Let us construct the REPUBLIC
+now!”
+
+180
+01:05:08,000 --> 01:05:11,360
+“What must be done to vanquish
+the enemies of the Fatherland?”
+(Hist.)
+
+181
+01:05:14,880 --> 01:05:17,920
+“Audacity,
+still more audacity!”
+(Hist.)
+
+182
+01:05:39,880 --> 01:05:48,400
+How cowardly and vile men are.
+The peoples are hardly worth
+the trouble of concern.
+
+183
+01:05:48,400 --> 01:05:56,400
+Each one seeks his own interest
+and wants to achieve it
+through horror.
+
+184
+01:06:54,800 --> 01:07:01,800
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+185
+01:07:24,559 --> 01:07:25,199
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+186
+01:07:25,719 --> 01:07:26,119
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+187
+01:07:26,880 --> 01:07:27,679
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+188
+01:07:50,280 --> 01:07:55,599
+“This is what you did
+today with the ROYALTY.”
+(Hist.)
+
+189
+01:09:14,079 --> 01:09:19,680
+And second by second,
+while the Royalty
+crumbled,
+
+190
+01:09:19,680 --> 01:09:25,840
+Napoléon vaguely
+felt a source of light
+growing in him.
+
+191
+01:10:36,800 --> 01:10:43,720
+IN CORSICA
+
+192
+01:10:44,520 --> 01:10:51,800
+Bonaparte, who
+has not returned to
+Corsica for 12 years,
+arrives at Ajaccio with
+
+193
+01:10:51,800 --> 01:10:58,800
+his sister Elisa to
+try and awaken the
+national sentiment there.
+(Hist.)
+
+194
+01:11:17,680 --> 01:11:22,239
+Elisa Bonaparte
+(Mrs. Yvette Dieudonné)
+
+195
+01:14:33,479 --> 01:14:35,479
+“Mama Lœtitia.”
+(Hist.)
+
+196
+01:15:26,800 --> 01:15:35,800
+The best friend
+of the Bonaparte family,
+the shepherd Santo Ricci
+(Mr. Henri Baudin)
+
+197
+01:17:08,680 --> 01:17:10,880
+“Hello "Cousing".”
+
+198
+01:17:28,199 --> 01:17:33,199
+“This is not
+the time to laugh,
+Napoléon!....”
+
+199
+01:17:44,479 --> 01:17:50,199
+“You must, this instant,
+learn
+the awful truth.”
+
+200
+01:18:10,399 --> 01:18:16,720
+“Paoli, our old
+and great Paoli,
+a venerated father to us all,
+
+201
+01:18:16,720 --> 01:18:21,199
+is about to sell us to
+the English.”
+(Hist.)
+
+202
+01:19:33,359 --> 01:19:39,720
+“As long as I live,
+Corsica will never
+become English.”
+(Hist.)
+
+203
+01:20:29,239 --> 01:20:36,439
+All the scenes in Corsica,
+notably, were shot
+in the exact houses
+
+204
+01:20:36,439 --> 01:20:44,039
+and sites where rigorously
+controlled facts
+took place.
+(Author's Note.)
+
+205
+01:20:44,039 --> 01:20:45,520
+HIS COUNTRY
+
+206
+01:22:49,760 --> 01:22:55,600
+At Casone cave,
+which had seen his adolescent
+reveries,
+
+207
+01:22:55,600 --> 01:23:01,800
+Napoléon came to meditate
+on the fate
+of his tiny fatherland.
+
+208
+01:23:35,760 --> 01:23:37,880
+His House.
+
+209
+01:23:39,239 --> 01:23:44,640
+NAPOLEON
+WAS BORN IN THIS HOUSE
+15 AUGUST 1769
+
+210
+01:24:21,039 --> 01:24:27,199
+His Family.
+
+211
+01:24:48,279 --> 01:24:55,479
+His dear mama Lœtitia,
+his brothers Joseph, Lucien,
+Louis, Jérôme, his sisters
+
+212
+01:24:55,479 --> 01:25:02,159
+Elisa, Pauline, Caroline,
+in the adorable garden
+of Milelli.
+(Historical)
+
+213
+01:25:06,760 --> 01:25:09,439
+Lœtitia Bonaparte...
+(Mrs. Eugénie Buffet)
+
+214
+01:25:49,079 --> 01:25:56,720
+... the Bonaparte family
+finds in front of it the jealous
+ferocity of Pozzo di Borgo
+
+215
+01:25:56,720 --> 01:26:04,520
+become attorney general
+in Corsica
+and secretary of Paoli.
+(Hist)
+
+216
+01:26:36,199 --> 01:26:43,880
+Will he choose, outside
+every political agitation,
+a sweet and familial life...
+
+217
+01:26:59,239 --> 01:27:06,479
+... or indeed, sacrificing
+his personal happiness,
+will he try to become
+
+218
+01:27:06,479 --> 01:27:10,880
+an important player
+on the world stage?...
+
+219
+01:27:25,239 --> 01:27:31,640
+Napoléon, an official representative
+of France,
+soon saw move away from him
+
+220
+01:27:31,640 --> 01:27:38,239
+every inhabitant
+who wished, with Paoli,
+that English domination and
+
+221
+01:27:38,239 --> 01:27:43,079
+the hate of Pozzo find there
+a fertile ground.
+(Hist.)
+
+222
+01:27:59,800 --> 01:28:02,039
+“Death to Napoléon Buonaparte!”
+(Hist.)
+
+223
+01:30:30,760 --> 01:30:37,439
+It is at this time that,
+neglecting the wise counsel
+of his family who advised
+
+224
+01:30:37,439 --> 01:30:45,279
+fleeing the hate of an entire
+people, that Napoléon came each
+day to the the deserted point
+
+225
+01:30:45,279 --> 01:30:51,399
+of the Sanguinaires
+speaking of the future
+with his friend the Ocean.
+
+226
+01:32:24,399 --> 01:32:32,199
+The entire question was
+whether Corsica
+would become English,
+according to Paoli's desire,
+
+227
+01:32:32,199 --> 01:32:39,279
+or whether it would remain
+French according to that
+of Bonaparte.
+(Arthur Lévy)
+
+228
+01:32:53,520 --> 01:32:56,640
+Paoli
+(Mr. Schutz)
+
+229
+01:33:03,680 --> 01:33:11,279
+“Napoléon Buonaparte, by
+his secret correspondence
+with the Convention, is
+currently the most serious
+
+230
+01:33:11,279 --> 01:33:18,680
+obstacle to our alliance
+with England.
+In the name of the Corsican Fatherland
+give me his life.” 
+
+231
+01:34:01,159 --> 01:34:10,640
+Order to civil and military
+authorities to
+pursue Napoléon
+Buonaparte, traitor to his fatherland.
+
+232
+01:34:10,640 --> 01:34:19,800
+A bonus of 500 pounds to whoever
+brings him back dead or alive.
+For the Corsican Consultation.
+Paoli
+
+233
+01:34:52,880 --> 01:34:59,640
+At the Rey
+Mill (Roy Mill) inn
+where politics holds its
+seats.
+
+234
+01:35:45,800 --> 01:35:51,560
+ORDER
+To civil & military Authorities
+to pursue Napoléon
+Buonaparte, traitor to the fatherland.
+
+235
+01:35:51,560 --> 01:35:54,920
+A bonus of FIVE HUNDRED pounds
+to the one who brings him back dead or alive.
+
+236
+01:35:54,920 --> 01:35:57,720
+In the name of the Corsican Consultation
+The Supreme Chief
+PAOLI
+
+237
+01:36:14,720 --> 01:36:21,279
+Napoléon's brothers,
+Lucien and Joseph, leave
+disguised for Calvi
+
+238
+01:36:21,279 --> 01:36:26,000
+to ask for help
+from the French authorities.
+
+239
+01:37:53,399 --> 01:37:56,560
+“What will you do
+my dear son?”
+
+240
+01:38:00,119 --> 01:38:02,640
+“Act, Mama!”
+
+241
+01:38:15,600 --> 01:38:24,680
+From this instant until
+his return to France,
+the life of the young lieutenant
+
+242
+01:38:24,680 --> 01:38:31,840
+of artillery will become the
+most incredible of adventure
+novels.
+
+243
+01:38:41,960 --> 01:38:48,680
+“Our fatherland is Spain
+with Buttafuaco!
+Death to Napoléon Bonaparte!”
+(Hist.)
+
+244
+01:38:55,279 --> 01:38:59,920
+“No, our fatherland
+is Italy with
+the Duke of Savoy!
+
+245
+01:38:59,920 --> 01:39:01,720
+Death to Napoléon Bonaparte!”
+(Hist.)
+
+246
+01:39:12,119 --> 01:39:17,000
+“No, our fatherland
+is England with Paoli!
+Death to Napoléon Bonaparte!”
+(Hist.)
+
+247
+01:39:39,880 --> 01:39:42,199
+“No... our fatherland
+is France!”
+(Hist.)
+
+248
+01:39:44,720 --> 01:39:45,359
+“With me!”
+(Hist.)
+
+249
+01:41:53,399 --> 01:41:57,960
+“If you could
+comprehend what dream
+enthuses my soul,
+
+250
+01:41:57,960 --> 01:42:00,800
+you would all follow me.”
+(Hist.)
+
+251
+01:42:29,439 --> 01:42:35,199
+“France, you see,
+is the mother of us all!...”
+(Historical.)
+
+252
+01:42:47,319 --> 01:42:53,399
+“Believe me...
+There will come a man who
+will know how to gather in his head
+
+253
+01:42:53,399 --> 01:42:57,479
+all the hopes
+of the nation, and then....”
+(Hist.)
+
+254
+01:46:46,279 --> 01:46:50,439
+“The war with France
+is declared.”
+(Historical)
+
+255
+01:47:56,399 --> 01:47:58,840
+“I am taking it away.
+It is too big
+for you!...”
+
+256
+01:48:51,039 --> 01:48:57,760
+In an instant,
+the announcement of the declaration
+of war, linked to the flight
+
+257
+01:48:57,760 --> 01:49:01,960
+of Bonaparte, added to
+the overexcitement
+of minds.
+
+258
+01:53:10,000 --> 01:53:13,199
+Surrounded by the tower
+of Capitello.
+
+259
+01:53:55,760 --> 01:53:58,760
+The sea... supreme
+resource of outlaws.
+
+260
+01:54:18,720 --> 01:54:20,359
+“Neither sails, nor oars!”
+
+261
+01:55:04,279 --> 01:55:06,079
+“I will
+give it back to you!”
+
+262
+01:55:56,800 --> 01:56:03,680
+It is thus that on 26 May
+1795 at the tower of Capitello,
+after an epic pursuit,
+
+263
+01:56:03,680 --> 01:56:10,640
+Napoléon set sail out to
+sea in the boss Ucciani's
+gondola.
+(d'Alboise)
+
+
+264
+01:56:47,119 --> 01:56:48,840
+The outlaws.
+
+265
+02:00:37,159 --> 02:00:40,680
+The maquis always saves
+the outlaws.
+
+266
+02:01:48,520 --> 02:01:51,680
+The dangerous sirocco
+rose gradually.
+
+267
+02:02:04,640 --> 02:02:12,479
+Napoléon, dreading the 
+storm, sought to
+follow the coast.
+
+268
+02:03:34,600 --> 02:03:41,399
+Vertiginously
+carried out to sea,
+Napoléon was about to
+
+269
+02:03:41,399 --> 02:03:46,000
+begin an epic battle
+against destiny.
+
+270
+02:04:13,319 --> 02:04:22,479
+That same night, at the
+same hour, another
+formidable storm
+was raging at the Convention.
+
+271
+02:04:40,640 --> 02:04:43,119
+“My conclusion?
+It is a decree
+
+272
+02:04:43,119 --> 02:04:47,239
+of indictment
+against all the Girondins!”
+(Hist.)
+
+273
+02:06:04,600 --> 02:06:13,439
+The assembly
+felt like it was under
+lightning.
+(Thibaudeau)
+
+274
+02:13:04,840 --> 02:13:12,680
+While all the giants
+of the Revolution were to be
+
+275
+02:13:12,680 --> 02:13:24,279
+brought one after the other
+into the frightful whirlwinds
+of the Terror...
+
+276
+02:13:24,279 --> 02:13:35,359
+... a wild, laughing man,
+tamer of oceans, opening
+his tricolor sail
+to the mad wind of the Revolution,
+
+277
+02:13:35,359 --> 02:13:46,600
+would be borne magnificently
+by the revolutionary aquilon
+to the highest pediment of
+History.
+
+278
+02:15:45,119 --> 02:15:52,199
+Historical providence:
+on a sailboat carrying
+two of the brothers of
+Bonaparte...
+
+279
+02:15:52,199 --> 02:15:55,000
+CHANCE
+
+280
+02:18:22,399 --> 02:18:27,920
+“My family... quick, quick...
+to his rescue... to Aspretto.”
+(Historical.)
+
+281
+02:18:58,479 --> 02:19:00,760
+Some hours
+later.
+
+282
+02:19:42,200 --> 02:19:47,360
+“Alas! my children.
+Our poor house
+ransacked on the orders
+
+283
+02:19:47,360 --> 02:19:52,719
+of Paoli! We ourselves
+forced to flee
+our dear fatherland.”
+
+284
+02:20:05,520 --> 02:20:09,319
+“Chance” carried
+towards France
+
+285
+02:20:09,319 --> 02:20:15,319
+a future emperor,
+3 kings, and a queen.
+(Historical)
+
+286
+02:20:20,879 --> 02:20:27,360
+“... And now,
+we have no more
+than one fatherland, only one...
+
+287
+02:20:31,479 --> 02:20:32,639
+... France!”
+
+288
+02:20:42,680 --> 02:20:47,000
+English boats
+monitoring
+the Mediterranean.
+
+289
+02:21:07,639 --> 02:21:10,920
+CHANCE
+
+290
+02:21:25,079 --> 02:21:29,760
+“Captain,
+allow me to sink
+this flagless sailboat...”
+
+291
+02:21:32,079 --> 02:21:36,479
+“No, no,
+my little Nelson.”
+(Historical)
+
+292
+02:21:44,879 --> 02:21:52,600
+“Let us not lose
+our bullets
+for fugitives
+of such little importance.”
+
+293
+02:23:25,639 --> 02:23:33,719
+THE SIEGE OF
+TOULON
+
+294
+02:23:33,719 --> 02:23:43,000
+Taking refuge in the suburbs
+of Toulon to flee the
+September massacres,
+Violine and Fleuri
+
+295
+02:23:43,000 --> 02:23:52,159
+quickly understood that the province
+would not escape the fury
+of extreme factions.
+
+296
+02:23:52,159 --> 02:23:59,280
+Violine, the little daughter
+of Tristan Fleuri.
+(Annabella)
+
+297
+02:26:52,920 --> 02:26:57,879
+“The civil war,
+as horrible
+as it may be,
+
+298
+02:26:57,879 --> 02:27:07,680
+is nothing yet my friends
+compared to the terrible
+tragedy
+of our open borders.”
+
+299
+02:29:25,639 --> 02:29:33,399
+“We are going backwards all over!
+It is a disaster,
+France is lost!”
+
+300
+02:30:17,959 --> 02:30:28,799
+In September 1793, the port
+of Toulon, where 20,000 Englishmen,
+Italians, and Spaniards were
+
+301
+02:30:28,799 --> 02:30:37,399
+entrenched, was besieged by a
+French army commanded
+by General Carteaux.
+
+302
+02:30:37,399 --> 02:30:41,879
+Napoléon who came
+to be named Second
+
+303
+02:30:41,879 --> 02:30:47,280
+Captain of the Toulon
+Artillery...
+(Historical)
+
+304
+02:31:21,040 --> 02:31:25,280
+...was going to find
+the armies of the Republic
+
+305
+02:31:25,280 --> 02:31:30,000
+in a state defying all
+imagination.
+(Stendhal, Hist.)
+
+306
+02:34:51,920 --> 02:35:00,760
+The painter Carteaux,
+general in chief of the armies
+besieging Toulon.
+(Mr. Courtois)
+
+307
+02:36:38,719 --> 02:36:43,440
+Salicetti, Corsican deputy at
+the Convention, named
+
+308
+02:36:43,440 --> 02:36:48,000
+Army Commissioner
+of Toulon.
+(Philippe Hériat)
+
+309
+02:37:03,360 --> 02:37:10,440
+“To the health of the great
+General Carteaux, future
+conqueror of Toulon.”
+
+310
+02:38:09,440 --> 02:38:13,040
+“What did you come here to do,
+young man?”
+
+311
+02:38:14,719 --> 02:38:19,200
+“I come as second in
+command to the artillery of the siege,
+my general.”
+(Historical)
+
+312
+02:38:21,239 --> 02:38:23,120
+“The artillery?”
+
+313
+02:38:34,920 --> 02:38:40,760
+“But we have no
+need! We will take
+Toulon with bladed arms!”
+(Historical)
+
+314
+02:39:05,440 --> 02:39:10,719
+“In my place, what
+would you do, kid?”
+(Historical)
+
+315
+02:39:50,680 --> 02:39:52,799
+ENGLISH
+REDOUBT
+
+316
+02:40:16,440 --> 02:40:22,399
+“Once the Aiguillete fort is taken,
+the English will abandon
+the town.”
+(Historical)
+
+317
+02:40:30,239 --> 02:40:34,159
+“Well, “Captain Cannon”,
+you are not good at
+grography.”
+(Historical)
+
+318
+02:41:11,200 --> 02:41:16,479
+“Remember this well, young
+man, firstly the artillery
+is useless and secondly...”
+
+319
+02:41:22,200 --> 02:41:24,399
+“And secondly,
+it is unpleasant.”
+
+320
+02:42:09,639 --> 02:42:14,680
+“This time, I will not hesitate,
+I will remind him of the Ecole
+de Brienne.”
+
+321
+02:42:44,719 --> 02:42:47,040
+“My Captain, I was...”
+
+322
+02:42:50,760 --> 02:42:53,399
+“Bread, olives,
+and silence!”
+
+323
+02:44:11,879 --> 02:44:16,040
+Carteaux, recognized as incapable,
+was replaced by General
+Dugommier.
+
+324
+02:44:27,360 --> 02:44:31,639
+Training men and horses,
+Napoléon deploys an incredible
+zeal.
+(Historical)
+
+325
+02:45:03,600 --> 02:45:07,879
+General Dugommier
+did not take long to
+
+326
+02:45:07,879 --> 02:45:15,440
+realize the exceptional
+qualities of his little
+artillery captain.
+
+327
+02:45:59,920 --> 02:46:05,159
+Inspection.
+
+328
+02:47:22,040 --> 02:47:24,200
+“Too short!”
+
+329
+02:47:42,040 --> 02:47:45,559
+Toulon thus passed for
+one of the vastest and
+
+330
+02:47:45,559 --> 02:47:50,200
+most formidable entrenched
+camps in the world.
+(Historical)
+
+331
+02:48:39,600 --> 02:48:45,399
+“Citizen-General, the fire
+on “Little Gibraltar” makes
+
+332
+02:48:45,399 --> 02:48:52,479
+the bastion untenable. We
+have given the order to evacuate
+the rooms.”
+
+333
+02:48:59,639 --> 02:49:05,360
+The English redoubt of
+“Little Gibraltar.”
+
+334
+02:49:32,799 --> 02:49:35,159
+“Take this piece to
+its place.”
+
+335
+02:49:38,239 --> 02:49:41,000
+“Impossible, my Captain!”
+
+336
+02:49:42,920 --> 02:49:45,920
+“Impossible is not
+French.”
+(Historical)
+
+337
+02:50:45,799 --> 02:50:50,680
+“Mind your trade
+as a deputy and leave me
+to do my trade as a gunman.
+
+338
+02:50:50,680 --> 02:50:55,600
+This battery will stay there,
+otherwise I am leaving!”
+
+339
+02:50:57,440 --> 02:51:01,000
+“Heads have rolled for
+less bold replies!”
+
+340
+02:51:34,680 --> 02:51:38,600
+“Tremendous! I no longer
+need sand.”
+
+341
+02:51:42,239 --> 02:51:45,399
+“My friend Junot, I like
+you.”
+
+342
+02:52:22,520 --> 02:52:27,760
+Battery of Fearless Men
+
+343
+02:53:48,440 --> 02:53:53,200
+“Captain Bonaparte, I
+name you Commander in
+Chief of the artillery!”
+
+344
+02:54:22,479 --> 02:54:26,760
+“To take Toulon, it is
+better to let him do it.”
+
+345
+02:54:49,680 --> 02:54:55,200
+Free to move,
+Bonaparte goes on the offensive.
+
+346
+02:55:38,079 --> 02:55:44,200
+He establishes two batteries
+on the edge of the sea, called the
+“Batteries of Montagne
+
+347
+02:55:44,200 --> 02:55:50,440
+and Sans-Culottes”. Which
+obligated enemy vessels
+to evacuate the Petite Rade.
+(Historical)
+
+348
+02:57:05,440 --> 02:57:14,440
+With insane bravura
+he pursues his successes until
+the Big Tower, from which he isolates
+the garrison.
+
+349
+02:58:03,040 --> 02:58:10,600
+On 16 December 1793,
+French Headquarters
+held a decisive
+council of war.
+
+350
+02:58:58,639 --> 02:59:01,639
+“I order or I keep quiet.”
+
+351
+02:59:41,680 --> 02:59:51,639
+The enemy council of
+war was quite reminiscent
+of the Tower of Babel.
+
+352
+03:00:00,159 --> 03:00:05,639
+The English Admiral
+Hoode...
+(Mr. Day)
+
+353
+03:00:12,479 --> 03:00:18,000
+“We are masters
+of the sea.
+The French fleet
+
+354
+03:00:18,000 --> 03:00:24,639
+is our hostage,
+prisoner in the port.”
+(Hist.-Cottin)
+
+355
+03:00:45,159 --> 03:00:51,600
+“20,000 Englishmen,
+Spaniards, Italians,
+make our forts
+
+356
+03:00:51,600 --> 03:00:56,200
+impregnable.
+I have
+no worries.”
+(Hist)
+
+357
+03:01:38,079 --> 03:01:43,600
+“Toulon has only one weak side
+on the harbor, the promontory
+
+358
+03:01:43,600 --> 03:01:48,479
+of Aiguillette. If we
+take it, the city is
+ours.”
+
+359
+03:01:56,319 --> 03:02:00,000
+“We will thus
+attack tonight at midnight.”
+
+360
+03:02:22,799 --> 03:02:28,040
+“Are you all indeed of
+this opinion?”
+
+361
+03:02:49,319 --> 03:02:51,959
+- “You do not understand war!”
+-“Is this a betrayal?”
+
+362
+03:02:51,959 --> 03:02:53,959
+- “Is this a betrayal?”
+-“Who and what is in charge here?”
+
+363
+03:02:53,959 --> 03:02:56,440
+- “You do not understand war!”
+-“Is this a betrayal?”
+
+364
+03:02:56,440 --> 03:02:58,399
+- “You do not understand war!”
+-“I do not understand.”
+
+365
+03:02:58,399 --> 03:02:59,000
+- “Translate!”
+
+366
+03:03:11,200 --> 03:03:17,840
+“Order_,
+Calm_,
+Silence_”
+
+367
+03:04:24,200 --> 03:04:31,120
+Preparations for Combat.
+
+368
+03:05:41,559 --> 03:05:45,040
+“A little patience! It is
+seven in the evening.
+
+369
+03:05:45,040 --> 03:05:49,399
+We
+will surprise the enemy
+tomorrow at five in the
+morning!”
+
+370
+03:05:59,040 --> 03:06:02,520
+“Smoking is prohibited,
+but you can
+sit down.”
+
+371
+03:06:16,600 --> 03:06:22,399
+“At what age did the little
+drummer Viala die?”
+
+372
+03:06:27,680 --> 03:06:28,440
+“At thirteen years”
+
+373
+03:06:37,399 --> 03:06:43,000
+“What luck! I then still
+have six years left to live!”
+
+374
+03:07:03,840 --> 03:07:10,920
+Napoléon was vested,
+by the soldiers' wishes,
+with the exercise of
+
+375
+03:07:10,920 --> 03:07:16,239
+command even though
+there were generals
+present.
+
+376
+03:07:54,680 --> 03:08:00,719
+“We will fight, I
+authorize you to sing.”
+
+377
+03:08:12,000 --> 03:08:17,280
+Mal- brough goes away to wa·r mi - ron
+ton - ton - ton mi - ron - tai - ne 
+
+378
+03:10:13,399 --> 03:10:20,600
+Despite the express prohibition
+by the Commissioners to the
+armies dreading the storm,
+
+379
+03:10:20,600 --> 03:10:26,680
+Bonaparte gives the signal
+to attack to the artillery.
+(Historical)
+
+380
+03:11:08,399 --> 03:11:17,840
+Divulging then a
+magnificent plan of attack,
+he launches the Victor and
+Delaborde columns onto
+
+381
+03:11:17,840 --> 03:11:26,360
+the Sardinian and Spanish wings,
+saving for himself
+the center attack on
+the English.
+
+382
+03:14:15,000 --> 03:14:21,360
+Dugommier's disobedience
+of Napoléon's orders and his
+
+383
+03:14:21,360 --> 03:14:28,239
+fortunately minor
+injury lead to the
+retreat of the French.
+
+384
+03:16:00,600 --> 03:16:06,799
+The Conventionals
+decide, at this moment,
+to suspend the assault.
+
+385
+03:16:25,559 --> 03:16:29,840
+“We have just
+guillotined in Paris
+
+386
+03:16:29,840 --> 03:16:37,520
+the generals Houchard
+and Custine for
+less serious mistakes.”
+
+387
+03:16:46,840 --> 03:16:52,719
+“Bonaparte has just
+committed the greatest
+crime in history.
+
+388
+03:16:52,719 --> 03:16:55,879
+This attack on
+a night like this!
+
+389
+03:16:55,879 --> 03:17:03,840
+It is such madness
+that his head would not suffice
+to pay for it! ”
+(Historical)
+
+390
+03:17:13,840 --> 03:17:23,360
+Order to captain Bonaparte
+to suspend the attack
+right now
+General in Chief Dugommier
+
+391
+03:18:01,760 --> 03:18:11,719
+Order to captain Bonaparte
+to suspend the attack
+right now
+General in Chief Dugommier
+
+392
+03:18:41,120 --> 03:18:42,280
+“Orators!”
+
+393
+03:19:17,280 --> 03:19:19,719
+“Are you responsible
+for success?”
+
+394
+03:19:33,840 --> 03:19:39,600
+“The general in chief
+takes the responsibility
+
+395
+03:19:39,600 --> 03:19:47,280
+of operations on his head
+and decides to continue
+the siege.”
+
+396
+03:20:45,000 --> 03:20:51,440
+Bonaparte never showed
+a similar intrepidity 
+during his other campaigns.
+
+397
+03:20:51,440 --> 03:21:00,799
+
+He is everywhere, sees everything,
+is enough for anything. The lightning
+from the sky and cannons surround him.
+
+398
+03:21:00,799 --> 03:21:05,840
+He is in the fire, in his
+element.
+(Chuquet) (Hist.)
+
+399
+03:22:09,040 --> 03:22:13,959
+“And tomorrow, my general,
+you will sleep
+in Toulon.”
+
+400
+03:24:32,719 --> 03:24:34,520
+“Turn the guns.”
+
+401
+03:24:46,479 --> 03:24:54,760
+The English canonmen
+are being hacked to pices on their
+guns. Of all those
+
+402
+03:24:54,760 --> 03:25:03,520
+who defend the redoubt,
+there is not one who has no
+injury.
+(Historical)
+
+403
+03:25:55,799 --> 03:25:59,520
+The Attack of Little
+Gibraltar.
+
+404
+03:26:53,559 --> 03:27:02,399
+“This is nothing,
+I already saw all this
+at Brienne!
+Bold Straw Nose!”
+
+405
+03:28:47,159 --> 03:28:53,559
+The English general
+O'Hara orders the
+retreat.
+
+406
+03:29:50,719 --> 03:29:52,440
+“Marcellin!”
+
+407
+03:30:57,200 --> 03:31:02,959
+And in the middle of obscurity,
+the rain, a terrible
+wind, the disorder
+
+408
+03:31:02,959 --> 03:31:09,879
+of cadavers, the screams of
+the wounded and the dying,
+we no longer shoot, we tackle
+
+409
+03:31:09,879 --> 03:31:15,879
+each other hand to hand. No
+other weapons than iron.
+(Napoléon's Memoirs)
+
+410
+03:33:12,040 --> 03:33:16,280
+“Go get me
+this young captain
+who has been fighting
+
+411
+03:33:16,280 --> 03:33:19,680
+like a tiger for
+two hours.”
+(Historical)
+
+412
+03:33:54,000 --> 03:33:56,040
+“Your name?”
+
+413
+03:33:57,879 --> 03:34:00,120
+“Desaix.”
+
+414
+03:34:47,559 --> 03:34:51,399
+“Take out
+the English squadron...”
+
+415
+03:35:15,000 --> 03:35:21,600
+“...and burn
+the French squadron.”
+
+416
+03:35:47,559 --> 03:35:55,719
+The French troops,
+after 76 hours of
+combat in the mud and
+the storm, seized,
+
+417
+03:35:55,719 --> 03:36:03,040
+at 4 in the morning, the
+last English redoubt.
+(Napoléon's Memoirs)
+
+418
+03:36:13,920 --> 03:36:19,719
+“The drums?
+Where are the drums
+of the 6th?”
+
+419
+03:36:45,479 --> 03:36:48,680
+“The drums?
+Present!!”
+
+420
+03:36:51,000 --> 03:36:54,559
+Fallen under gunfire, the
+drums of the 6th were going
+
+421
+03:36:54,559 --> 03:36:58,600
+to be replaced in their
+task by an unforeseen
+auxiliary...
+
+422
+03:37:03,760 --> 03:37:06,040
+...hail.
+
+423
+03:38:22,360 --> 03:38:28,239
+“I believe
+that this man
+will save France.”
+
+424
+03:38:48,159 --> 03:38:55,959
+After the Victory.
+
+425
+03:39:59,319 --> 03:40:05,799
+At dawn, from the top
+of the Aiguillette, one of
+the greatest spectacles
+
+426
+03:40:05,799 --> 03:40:12,600
+that had struck the imagination
+of Napoleon offered itself to
+his view.
+(Chuquet)
+
+427
+03:42:07,319 --> 03:42:13,959
+“What... is the name of...
+this captain?”
+
+428
+03:42:15,280 --> 03:42:18,520
+“Napoléon Bonaparte.”
+
+429
+03:42:45,079 --> 03:42:52,959
+At dawn, the commissioners
+of the Armies who came to give
+him, as a token of
+
+430
+03:42:52,959 --> 03:43:02,840
+apology, the rank of brigadier
+general, find him asleep,
+his head on a drum.
+(Historical)
+
+431
+03:43:32,639 --> 03:43:37,399
+“Here is
+the taker of Toulon!”
+(Historical)
+
+432
+03:44:51,040 --> 03:44:55,840
+End of the
+First Part.
+

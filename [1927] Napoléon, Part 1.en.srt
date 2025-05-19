@@ -1,0 +1,2343 @@
+1
+00:00:00,000 --> 00:00:04,360
+CANNES FESTIVAL
+OFFICIAL SELECTION 2024
+CANNES CLASSICS
+
+2
+00:00:06,400 --> 00:00:08,039
+La Cinémathèque française presents
+
+3
+00:00:08,039 --> 00:00:09,919
+<b>Napoléon as Seen by Abel Gance (1927)</b>
+
+4
+00:00:09,919 --> 00:00:14,759
+Reconstructed and restored under the guidance of <b>Georges Mourier</b>, assisted by <b>Laure Marchaut</b>,
+
+5
+00:00:14,759 --> 00:00:20,359
+with the help of the <b>Eclair Classics/L'Image Retrouvée</b> laboratories, set to music by <b>Simon Cloquet-Lafollye</b>.
+
+6
+00:00:20,399 --> 00:00:23,600
+The restoration work was carried out by La Cinémathèque française
+
+7
+00:00:23,600 --> 00:00:27,160
+with the aid of the <b>Centre national du cinéma et de l'image animée</b> and 
+
+8
+00:00:27,160 --> 00:00:30,440
+the <b>Centre national de la musique</b> in partnership with <b>Radio France</b>.
+
+9
+00:00:30,440 --> 00:00:35,159
+To film his <i>Napoléon</i>, Abel Gance shot with several cameras, generating two different negatives and hence two original versions:
+
+10
+00:00:35,159 --> 00:00:38,320
+one called "Opéra" (Premiered at the Opéra de Paris, 4 April 1927, 4 hours long)
+
+11
+00:00:38,320 --> 00:00:43,520
+the second called "Apollo" (presented to the press and the operators of the Apollo theater in May 1927, 9 hours and 30 minutes long).
+
+12
+00:00:43,520 --> 00:00:47,520
+Gance then established a final version from the Apollo negative alone, of a length of around 7 hours.
+
+13
+00:00:47,520 --> 00:00:53,439
+It is on this definitive version called the "Grande Version" that the restoration carried out by La Cinémathèque française between 2015 and 2022 is based.
+
+14
+00:00:53,439 --> 00:00:59,520
+The splitting of the film into two parts was carried out from the Abel Gance archives preserved at La Cinémathèque française and la Bibliothèque nationale de France.
+
+15
+00:00:59,520 --> 00:01:06,319
+It includes the final triptych called "Departure of the Army from Italy" according to the three-screen projection process conceived by Gance that he would later name "Polyvision".
+
+16
+00:01:06,439 --> 00:01:10,120
+The reconstruction and restoration of images were carried out from elements preserved in the following archives:
+
+
+17
+00:01:10,120 --> 00:01:15,280
+La Cinémathèque française, Centre national du cinéma et de l'image animée, la Cinémathèque de Toulouse, la Cinémathèque royale de Belgique (Bruxelles),
+
+18
+00:01:15,280 --> 00:01:20,400
+la Cinémathèque de Corse-Casa di Lume, la Cinémathèque du Luxembourg, The Danish Film Institute (Copenhagen), Filmoteca de Catalunya (Barcelona),
+
+19
+00:01:20,400 --> 00:01:26,040
+Fondazione Centro Sperimentale di Cinematografia-Cineteca Nazionale (Roma), Jugoslovenska Kinoteka (Beograd), MoMA (New York), and several private collections.
+
+20
+00:01:26,040 --> 00:01:30,799
+The elements were digitized in total immersion in 5K at the Eclair Classics/L'Image Retrouvée laboratories with the help of Nitroscan.
+
+21
+00:01:30,799 --> 00:01:33,239
+The digital elements were conformed, restored, tinted, and calibrated.
+
+22
+00:01:33,439 --> 00:01:39,400
+Abel Gance did not give instructions for the musical accompaniment of the definitive version called the "Grande Version", la Cinémathèque francaise entrusted
+
+23
+00:01:39,400 --> 00:01:45,400
+composer Simon Cloquet-Lafollye with the order of an original score constituted by arrangements of pieces drawing from a symphonic repertoire going from Mozart to Penderecki.
+
+24
+00:01:45,400 --> 00:01:49,159
+This score was executed and recorded by Radio France's musical formations (Orchestre National de France,
+
+25
+00:01:49,159 --> 00:01:54,359
+Orchestre Philharmonique et Choeur de Radio France) under the guidance of Fabien Gabel with the participation of the tenor Benjamin Bernheim.
+
+26
+00:02:08,719 --> 00:02:10,840
+Translated and subtitled by Sylvia Nambiar (SyllabiaMinora)
+
+27
+00:02:14,879 --> 00:02:28,080
+<font color='#dabaa1'>LA SOCIÉTÉ GÉNÉRALE DE FILMS</font>
+<font color='#dabaa1'>and</font>
+<font color='#dabaa1'>The FRENCH COMPANY GAUMONT-METRO-GOLDWYN</font>
+<font color='#dabaa1'>present:</font>
+
+28
+00:02:29,599 --> 00:02:37,400
+<font color='#f3d1b7'>NAPOLÉON</font>
+
+29
+00:02:37,400 --> 00:02:40,039
+<font color='#f6d4ba'>Napoléon as Seen by</font><font color='#f6d4ba'> Abel Gance</font>
+
+30
+00:02:40,039 --> 00:02:48,840
+<font color='#ebc9af'>as Seen by</font><font color='#ebc9af'> </font><font color='#ebc9af'>Abel Gance</font>
+
+31
+00:02:48,840 --> 00:02:57,520
+<font color='#c3a792'>A cinegraphic epic in two parts</font>
+
+32
+00:02:57,759 --> 00:03:07,240
+<font color='#c4a893'>The triple-screen process at the end of the second part is one of Abel Gance's inventions.</font>
+
+33
+00:03:07,240 --> 00:03:17,439
+<font color='#c2a690'>Its use for shooting was patented by André Debrie, and for projection by the House of Gaumont.</font>
+
+34
+00:03:17,759 --> 00:03:26,759
+<font color='#c5a994'>Director of Photography: J. Kruger</font>
+
+35
+00:03:27,919 --> 00:03:34,000
+<font color='#c8ac97'>Operators:</font>
+<font color='#c8ac97'>Mr Mundviller</font>
+<font color='#c8ac97'>and</font>
+
+36
+00:03:34,000 --> 00:03:40,199
+<font color='#c9ac97'>Messrs L. Lucas, R. Hubert,</font>
+<font color='#c9ac97'>E. Pierre, P. Briquet.</font>
+
+37
+00:03:40,520 --> 00:03:46,400
+<font color='#d1b39c'>FIRST ERA</font>
+<font color='#d1b39c'>BONAPARTE</font>
+
+38
+00:03:46,400 --> 00:03:52,960
+<font color='#c7ab96'>with</font>
+<font color='#c7ab96'>Albert Dieudonné</font>
+<font color='#c7ab96'>in the role of</font>
+<font color='#c7ab96'>Napoléon Bonaparte</font>
+
+39
+00:04:03,280 --> 00:04:09,479
+<i>“I would like to be my</i>
+<i>“posterity and witness</i>
+<i>“what a poet would make</i>
+
+40
+00:04:09,479 --> 00:04:14,719
+<i>“me think, feel,</i>
+<i>“and say.”</i>
+<i>(Napoléon)</i>
+
+41
+00:04:16,160 --> 00:04:31,800
+<b> All the texts, speeches, and narratives taken literally from History are followed by the mention: “</b><i><b>Hist.”</b></i>
+
+42
+00:04:36,600 --> 00:04:44,839
+<font color='#978172'>Prologue</font>
+<font color='#978172'>BRIENNE</font>
+
+43
+00:04:47,240 --> 00:04:57,920
+Then came the memorable winter of 1781
+where the snow piles up in the
+courtyard of the Ecole de Brienne.
+(Hist.)
+
+44
+00:05:11,959 --> 00:05:18,600
+Napoléon Bonaparte
+at the age of 11 years...
+Mr. Vladimir Roudenko
+
+45
+00:06:06,560 --> 00:06:13,199
+... had sworn to resist with
+ten comrades in a fort
+he built himself...
+
+46
+00:06:16,920 --> 00:06:22,079
+... the assaults
+of forty artillerymen.
+<i>(Hist.)</i>
+
+47
+00:06:41,639 --> 00:06:46,160
+The Minim Friars who
+encourage these combats
+
+48
+00:06:46,160 --> 00:06:50,839
+and applaud the students
+distinguished by their address
+
+49
+00:06:50,839 --> 00:06:55,680
+or the invention of some
+stratagem, emboldened this day
+
+50
+00:06:55,680 --> 00:07:01,079
+by an all too vivid curiosity...
+<i>(Hist.)</i>
+
+51
+00:07:40,839 --> 00:07:46,519
+The two leaders of the opposite camp
+Phélipeaux and Peccaduc, personal
+
+52
+00:07:46,519 --> 00:07:52,040
+enemies of Napoléon in Brienne
+and that by a troubling chance
+
+53
+00:07:52,040 --> 00:07:57,360
+we find standing
+againt him for 15 years on
+
+54
+00:07:57,360 --> 00:08:03,319
+most of the battlefields
+of the Empire.
+<i>(Hist.)</i>
+
+55
+00:08:18,519 --> 00:08:21,319
+Thinking of surprising Napoléon
+
+56
+00:09:16,399 --> 00:09:22,200
+Tristan Fleuri,
+refectory boy.
+
+Mr Koline
+
+57
+00:11:16,799 --> 00:11:18,759
+<i><b>“Watch out Napoléon!...”</b></i>
+
+58
+00:11:26,000 --> 00:11:29,679
+<i><b>“Phélipeaux puts stones</b></i>
+<i><b>in his snowballs!”</b></i>
+
+59
+00:13:24,960 --> 00:13:27,519
+<i><b>“Thank you!”</b></i>
+
+60
+00:15:17,519 --> 00:15:23,720
+Already possessing an unprecedented
+mastery, he dictated the
+
+61
+00:15:23,720 --> 00:15:29,960
+movements, immobile in the
+center of the brawls.
+(Historical)
+
+62
+00:19:44,200 --> 00:19:47,200
+<i><b>“Let the victor of the combat</b></i>
+<i><b>come here.”</b></i>
+
+63
+00:19:57,000 --> 00:19:58,720
+<i>“Your name?”</i>
+<i>(Hist.)</i>
+
+64
+00:20:00,920 --> 00:20:06,559
+<i><b>“Napoléon.”</b></i>
+(with a Corsican accent,
+he pronounced it Nabulioné)
+(Hist.)
+
+65
+00:20:09,160 --> 00:20:14,759
+<i>“How do you say it?</i>
+<i>Straw nose?....”</i>
+<b>(Hist.)</b>
+
+66
+00:20:31,279 --> 00:20:38,480
+<i>“Little one, you will go far,</i>
+<i>remember that it is Pichegru</i>
+<i>who told you so.”</i>
+<b>(Hist.)</b>
+
+67
+00:21:41,599 --> 00:21:46,480
+<font color='#af9582'>The geography lesson:</font>
+<font color='#af9582'>study on the climate of islands.</font>
+
+68
+00:22:49,160 --> 00:22:53,200
+<i><b><font color='#d1b39c'>“As for Corsica, this</font></b></i>
+<i><b><font color='#d1b39c'>almost savage island...”</font></b></i>
+
+69
+00:23:13,400 --> 00:23:16,839
+As for Corsica, the most beautiful
+island in the world, the climate
+there is...
+
+70
+00:23:38,559 --> 00:23:39,839
+<i><b><font color='#cfb199'>“Oh... I forgot!”</font></b></i>
+
+71
+00:23:44,599 --> 00:23:47,599
+<i><b><font color='#b89e89'>“A small islet lost in</font></b></i>
+<i><b><font color='#b89e89'>the Ocean...”</font></b></i>
+
+72
+00:24:12,359 --> 00:24:15,400
+<i><b><font color='#ddbda7'>“Saint Helena, a small island...”</font></b></i>
+
+73
+00:24:28,720 --> 00:24:34,039
+St helena small island
+
+74
+00:25:49,559 --> 00:25:53,880
+I am very unhappy
+here, and my heart
+
+75
+00:25:53,880 --> 00:25:57,920
+is not made for
+these people who surround me.
+“Historical”
+
+76
+00:25:59,880 --> 00:26:04,359
+I wait since I want
+to one day free
+my country.
+
+77
+00:26:04,359 --> 00:26:08,400
+What do we know? The fate
+of an Empire often depends
+on one man.
+
+78
+00:26:08,400 --> 00:26:11,359
+-Napoléon
+“Historical”
+
+79
+00:26:31,119 --> 00:26:33,799
+<i><b><font color='#ccae99'>“Sir, Napoléon hides</font></b></i>
+<i><b><font color='#ccae99'>letters in his bed!”</font></b></i>
+
+80
+00:27:20,440 --> 00:27:24,319
+<font color='#d8b8a2'>Bonaparte's only</font>
+<font color='#d8b8a2'>comforter in the attic</font>
+<font color='#d8b8a2'>of Tristan Fleuri.</font>
+
+81
+00:27:44,359 --> 00:27:53,039
+<font color='#ceb099'>A proud companion in misfortune,</font>
+<font color='#ceb099'>a gift from uncle Paraviccini,</font>
+<font color='#ceb099'>a great hunter of eagles</font>
+<font color='#ceb099'>in Ajaccio.</font>
+
+82
+00:30:13,720 --> 00:30:16,119
+<i><b><font color='#b99e8b'>“Who is it that made my</font></b></i>
+<i><b><font color='#b99e8b'>eagle flee?”</font></b></i>
+
+83
+00:30:55,960 --> 00:30:58,640
+<i><b><font color='#e7c6ae'>“So, you are all</font></b></i>
+<i><b><font color='#e7c6ae'>culpable!”</font></b></i>
+
+84
+00:33:22,559 --> 00:33:24,799
+<i><font color='#d0b6a1'>“What do you think you are, little</font></i>
+<i><font color='#d0b6a1'>rascal?”</font></i>
+
+85
+00:34:17,280 --> 00:34:23,760
+<i><b><font color='#b69c86'>“I maintain that he will go far.</font></b></i>
+<i><b><font color='#b69c86'>He is granite heated in</font></b></i>
+<i><b><font color='#b69c86'>a volcano.”</font></b></i>
+
+86
+00:38:37,880 --> 00:38:43,400
+<font color='#5cb0e4'>End of the</font>
+<font color='#5cb0e4'>Prologue</font>
+
+87
+00:38:46,920 --> 00:38:52,000
+<font color='#c7ab95'>First Part</font>
+<font color='#c7ab95'>NAPOLÉON</font>
+<font color='#c7ab95'>and</font>
+<font color='#c7ab95'>THE FRENCH REVOLUTION</font>
+
+88
+00:38:53,239 --> 00:38:57,400
+<font color='#cdaf99'>June 1972</font>
+<font color='#cdaf99'>At Cordeliers Club.</font>
+
+89
+00:38:58,199 --> 00:39:04,639
+DEATH TO THE TYRANTS
+
+90
+00:39:59,280 --> 00:40:03,480
+<font color='#c8ac97'>Danton's secretary,</font>
+<font color='#c8ac97'>Camille Desmoulins...</font>
+<font color='#c8ac97'>(Mr. Vidalin)</font>
+
+91
+00:40:03,480 --> 00:40:07,440
+<font color='#d4b69f'>and his wife Lucile.</font>
+<font color='#d4b69f'>(Ms. Francine Mussey)</font>
+
+92
+00:41:56,159 --> 00:41:59,159
+<font color='#d6b7a0'>The three gods...</font>
+
+93
+00:42:07,159 --> 00:42:09,679
+<font color='#eeccb1'>DANTON...</font>
+<font color='#eeccb1'>(Mr. Koubitzky)</font>
+
+94
+00:42:19,719 --> 00:42:21,880
+<font color='#e4c4ac'>... MARAT...</font>
+<font color='#e4c4ac'>(Mr. Antonin Artaud)</font>
+
+95
+00:42:33,599 --> 00:42:36,119
+<font color='#e7c4ae'>... ROBESPIERRE.</font>
+<font color='#e7c4ae'>(Mr. Edmond van Daële)</font>
+
+96
+00:43:07,039 --> 00:43:08,000
+<i><b><font color='#dcbca4'>“Babblers!”</font></b></i>
+
+97
+00:44:34,039 --> 00:44:43,920
+<i><b><font color='#d9b9a2'>“Your friend Diétrich sends you</font></b></i>
+<i><b><font color='#d9b9a2'>an officer of the Rhine Army</font></b></i>
+<i><b><font color='#d9b9a2'>bearing a song</font></b></i>
+<i><b><font color='#d9b9a2'>that he believes useful to the people.</font></b></i>
+
+98
+00:44:43,920 --> 00:44:48,719
+<i><b><font color='#dbbba2'>Can we distribute</font></b></i>
+<i><b><font color='#dbbba2'>the copies</font></b></i>
+<i><b><font color='#dbbba2'>by attending the session?”</font></b></i>
+
+99
+00:47:33,039 --> 00:47:37,360
+<font color='#e7c7ad'>The tense crowd felt</font>
+<font color='#e7c7ad'>vaguely that a great</font>
+
+100
+00:47:37,360 --> 00:47:41,920
+<font color='#e5c5ab'>flame was going to rise</font>
+<font color='#e5c5ab'>within the history of</font>
+<font color='#e5c5ab'>the world.</font>
+
+101
+00:48:12,480 --> 00:48:15,599
+<i><b>♪ Allons enfants de la Patrie, ♪</b></i>
+<i><b>[♪ Arise, children of the Fatherland, ♪]</b></i>
+
+102
+00:48:15,599 --> 00:48:19,159
+<i><b>♪ Le jour de gloire est arrivé ! ♪</b></i>
+<i><b>[♪ The day of glory has arrived! ♪]</b></i>
+
+103
+00:48:19,159 --> 00:48:22,400
+<i><b>♪ Contre nous de la tyrannie ♪</b></i>
+<i><b>[♪ Against us, of tyranny ♪]</b></i>
+
+104
+00:48:22,400 --> 00:48:28,800
+<i><b>𝄆 L'étendard sanglant est levé, 𝄇</b></i>
+<i><b>[𝄆 The blood-stained standard is raised, 𝄇]</b></i>
+
+105
+00:48:28,800 --> 00:48:32,519
+<i><b>♪ Entendez-vous dans les campagnes ♪</b></i>
+<i><b>[♪ Do you hear in the countryside, ♪]</b></i>
+
+106
+00:48:32,519 --> 00:48:36,119
+<i><b>♪ Mugir ces féroces soldats ? ♪</b></i>
+<i><b>[♪ Those blood-thirsty soldiers ablare? ♪]</b></i>
+
+107
+00:48:36,119 --> 00:48:39,039
+<i><b>♪ Ils viennent jusque dans vos bras ♪</b></i>
+<i><b>[♪ They're coming right into your arms ♪]</b></i>
+
+108
+00:48:39,039 --> 00:48:42,800
+<i><b>♪ Égorger vos fils, vos compagnes ! ♪</b></i>
+<i><b>[♪ To tear the throats of your sons, your wives! ♪]</b></i>
+
+109
+00:48:43,280 --> 00:48:46,280
+<i><b>𝄆 Aux armes, citoyens,</b></i>
+<i><b>[𝄆 To arms, citizens,]</b></i>
+
+110
+00:48:46,280 --> 00:48:50,239
+<i><b>Formez vos bataillons,</b></i>
+<i><b>[Form up your battalions]</b></i>
+
+111
+00:48:50,239 --> 00:48:54,039
+<i><b>Marchons, marchons !</b></i>
+<i><b>[March on, march on!]</b></i>
+
+112
+00:48:54,039 --> 00:48:57,440
+<i><b>Qu'un sang impur</b></i>
+<i><b>[Let blood impure]</b></i>
+
+113
+00:48:57,440 --> 00:49:00,960
+<i><b>Abreuve nos sillons ! 𝄇</b></i>
+<i><b>[Water our furrows! 𝄇]</b></i>
+
+114
+00:49:30,559 --> 00:49:31,239
+<i><font color='#f9810b'>“Your name?”</font></i>
+
+115
+00:49:32,559 --> 00:49:34,440
+<i><b><font color='#ff8103'>“Rouget de Lisle.”</font></b></i>
+<b><font color='#ff8103'>(Mr Harry Krimer)</font></b>
+
+116
+00:51:05,280 --> 00:51:06,880
+<i><b><font color='#f6800f'>“People, sit down!”</font></b></i>
+
+117
+00:51:41,000 --> 00:51:42,599
+<i><b><font color='#f8810f'>“Let us learn, my children.”</font></b></i>
+
+118
+00:51:59,400 --> 00:52:05,320
+<b>(discordantly) </b><i><b>♪ Allons enfants de la Patrie, ♪</b></i>
+<i><b>[♪ Arise, children of the Fatherland, ♪]</b></i>
+
+119
+00:52:05,320 --> 00:52:10,800
+<i><b>♪ Le jour de gloire est arrivé ! ♪</b></i>
+<i><b>[♪ The day of glory has arrived! ♪]</b></i>
+
+120
+00:52:10,800 --> 00:52:14,039
+<i><b>♪ Contre nous de la tyrannie ♪</b></i>
+<i><b>[♪ Against us, of tyranny ♪]</b></i>
+
+121
+00:52:16,800 --> 00:52:21,719
+<b>(harmonically) </b><i><b>♪ Contre nous de la tyrannie ♪</b></i>
+<i><b>[♪ Against us, of tyranny ♪]</b></i>
+
+122
+00:52:21,719 --> 00:52:31,960
+<i><b>𝄆 L'étendard sanglant est levé, 𝄇</b></i>
+<i><b>[𝄆 The blood-stained standard is raised, 𝄇]</b></i>
+
+123
+00:52:31,960 --> 00:52:36,320
+<i><b>♪ Entendez-vous dans les campagnes ♪</b></i>
+<i><b>[♪ Do you hear in the countryside, ♪]</b></i>
+
+124
+00:52:36,320 --> 00:52:41,719
+<i><b>♪ Mugir ces féroces soldats ? ♪</b></i>
+<i><b>[♪ Those blood-thirsty soldiers ablare? ♪]</b></i>
+
+125
+00:52:41,920 --> 00:52:47,000
+<i><b>♪ Ils viennent jusque dans vos bras ♪</b></i>
+<i><b>[♪ They're coming right into your arms ♪]</b></i>
+
+126
+00:52:47,000 --> 00:52:52,400
+<i><b>♪ Égorger vos fils, vos compagnes ! ♪</b></i>
+<i><b>[♪ To tear the throats of your sons, your wives! ♪]</b></i>
+
+127
+00:52:53,280 --> 00:52:58,440
+<i><b>𝄆 Aux armes, citoyens,</b></i>
+<i><b>[𝄆 To arms, citizens,]</b></i>
+
+128
+00:52:58,840 --> 00:53:02,920
+<i><b>Formez vos bataillons,</b></i>
+<i><b>[Form up your battalions]</b></i>
+
+129
+00:53:03,280 --> 00:53:07,079
+<i><b>Marchons, marchons !</b></i>
+<i><b>[March on, march on!]</b></i>
+
+130
+00:53:07,079 --> 00:53:10,480
+<i><b>Qu'un sang impur</b></i>
+<i><b>[Let blood impure]</b></i>
+
+131
+00:53:10,480 --> 00:53:14,000
+<i><b>Abreuve nos sillons ! 𝄇</b></i>
+<i><b>[Water our furrows! 𝄇]</b></i>
+
+132
+00:53:14,320 --> 00:53:17,519
+<i><b>𝄆 Aux armes, citoyens,</b></i>
+<i><b>[𝄆 To arms, citizens,]</b></i>
+
+133
+00:53:18,039 --> 00:53:21,239
+<i><b>Formez vos bataillons,</b></i>
+<i><b>[Form up your battalions]</b></i>
+
+134
+00:53:21,760 --> 00:53:25,039
+<i><b>Marchons, marchons !</b></i>
+<i><b>[March on, march on!]</b></i>
+
+135
+00:53:25,679 --> 00:53:29,079
+<i><b>Qu'un sang impur</b></i>
+<i><b>[Let blood impure]</b></i>
+
+136
+00:53:29,199 --> 00:53:32,719
+<i><b>Abreuve nos sillons ! 𝄇</b></i>
+<i><b>[Water our furrows! 𝄇]</b></i>
+
+137
+00:53:38,159 --> 00:53:40,800
+<i><b><font color='#ff830b'>“They all bray</font></b></i>
+<i><b><font color='#ff830b'>like asses!”</font></b></i>
+
+138
+00:55:10,599 --> 00:55:14,039
+<i><b><font color='#ff830e'>“Thank you on behalf of France,</font></b></i>
+<b><font color='#ff830e'>Monsieur</font></b><i><b><font color='#ff830e'>,</font></b></i>
+
+139
+00:55:14,039 --> 00:55:17,599
+<i><b><font color='#fe820c'>your hymn will replace</font></b></i>
+<i><b><font color='#fe820c'>thousands of cannons.”</font></b></i>
+
+140
+00:55:26,159 --> 00:55:29,679
+<i><b><font color='#ff880f'>“Thank you, Lieutenant,</font></b></i>
+<i><b><font color='#ff880f'>tell me your name so</font></b></i>
+
+141
+00:55:29,679 --> 00:55:33,280
+<i><b><font color='#ff840c'>that I may remember</font></b></i>
+<i><b><font color='#ff840c'>your prediction.”</font></b></i>
+
+142
+00:55:36,199 --> 00:55:38,119
+<i><b><font color='#ff820b'>“Napoléon Bonaparte.”</font></b></i>
+<b><font color='#ff820b'>(Mr. Albert Dieudonné)</font></b>
+
+143
+00:55:38,840 --> 00:55:43,119
+<i><b>♪ Allons enfants de la Patrie, ♪</b></i>
+<i><b>[♪ Arise, children of the Fatherland, ♪]</b></i>
+
+144
+00:55:43,119 --> 00:55:47,480
+<i><b>♪ Le jour de gloire est arrivé ! ♪</b></i>
+<i><b>[♪ The day of glory has arrived! ♪]</b></i>
+
+145
+00:55:47,480 --> 00:55:51,800
+<i><b>♪ Contre nous de la tyrannie ♪</b></i>
+<i><b>[♪ Against us, of tyranny ♪]</b></i>
+
+146
+00:55:51,800 --> 00:56:00,880
+<i><b>𝄆 L'étendard sanglant est levé, 𝄇</b></i>
+<i><b>[𝄆 The blood-stained standard is raised, 𝄇]</b></i>
+
+147
+00:56:00,880 --> 00:56:05,239
+<i><b>♪ Entendez-vous dans les campagnes ♪</b></i>
+<i><b>[♪ Do you hear in the countryside, ♪]</b></i>
+
+148
+00:56:05,239 --> 00:56:10,639
+<i><b>♪ Mugir ces féroces soldats ? ♪</b></i>
+<i><b>[♪ Those blood-thirsty soldiers ablare? ♪]</b></i>
+
+149
+00:56:10,639 --> 00:56:13,880
+<i><b>♪ Ils viennent jusque dans vos bras ♪</b></i>
+<i><b>[♪ They're coming right into your arms ♪]</b></i>
+
+150
+00:56:13,880 --> 00:56:18,480
+<i><b>♪ Égorger vos fils, vos compagnes ! ♪</b></i>
+<i><b>[♪ To tear the throats of your sons, your wives! ♪]</b></i>
+
+151
+00:56:18,800 --> 00:56:22,880
+<i><b>𝄆 Aux armes, citoyens,</b></i>
+<i><b>[𝄆 To arms, citizens,]</b></i>
+
+152
+00:56:22,880 --> 00:56:26,719
+<i><b>Formez vos bataillons,</b></i>
+<i><b>[Form up your battalions]</b></i>
+
+153
+00:56:26,719 --> 00:56:30,519
+<i><b>Marchons, marchons !</b></i>
+<i><b>[March on, march on!]</b></i>
+
+154
+00:56:31,000 --> 00:56:34,400
+<i><b>Qu'un sang impur</b></i>
+<i><b>[Let blood impure]</b></i>
+
+155
+00:56:34,679 --> 00:56:38,199
+<i><b>Abreuve nos sillons ! 𝄇</b></i>
+<i><b>[Water our furrows! 𝄇]</b></i>
+
+156
+00:56:40,800 --> 00:56:44,000
+<i><b>𝄆 Aux armes, citoyens,</b></i>
+<i><b>[𝄆 To arms, citizens,]</b></i>
+
+157
+00:56:44,519 --> 00:56:47,719
+<i><b>Formez vos bataillons,</b></i>
+<i><b>[Form up your battalions]</b></i>
+
+158
+00:56:48,239 --> 00:56:53,000
+<i><b>Marchons (marchons), marchons (marchons) !</b></i>
+<i><b>[March on (march on), march on (march on)!]</b></i>
+
+159
+00:56:53,679 --> 00:56:57,079
+<i><b>Qu'un sang impur</b></i>
+<i><b>[Let blood impure]</b></i>
+
+160
+00:56:57,199 --> 00:57:00,719
+<i><b>Abreuve nos sillons ! 𝄇</b></i>
+<i><b>[Water our furrows! 𝄇]</b></i>
+
+161
+00:57:02,039 --> 00:57:05,239
+<i><b>𝄆 Aux armes, citoyens,</b></i>
+<i><b>[𝄆 To arms, citizens,]</b></i>
+
+162
+00:57:05,760 --> 00:57:08,960
+<i><b>Formez vos bataillons,</b></i>
+<i><b>[Form up your battalions]</b></i>
+
+163
+00:57:09,400 --> 00:57:12,840
+<i><b>Marchons (marchons), marchons (marchons) !</b></i>
+<i><b>[March on (march on), march on (march on)!]</b></i>
+
+164
+00:57:12,840 --> 00:57:15,920
+<i><b>Qu'un sang impur</b></i>
+<i><b>[Let blood impure]</b></i>
+
+165
+00:57:15,920 --> 00:57:20,679
+<i><b>Abreuve nos sillons ! 𝄇</b></i>
+<i><b>[Water our furrows! 𝄇]</b></i>
+
+166
+00:57:27,880 --> 00:57:34,599
+<font color='#c6aa95'>Napoléon lived in Paris</font>
+<font color='#c6aa95'>in misery.</font>
+
+167
+00:57:59,559 --> 00:58:06,440
+<font color='#c4a893'>The strollers, including Josephine</font>
+<font color='#c4a893'>de Beauharnais, sought</font>
+
+168
+00:58:06,440 --> 00:58:13,239
+<b><font color='#c1a691'>this morning the famous</font></b>
+<b><font color='#c1a691'>seer, Mademoiselle</font></b>
+<b><font color='#c1a691'>Lenormant.</font></b>
+
+169
+00:59:45,559 --> 00:59:52,360
+<i><b><font color='#e9c7b0'>“An incredible fortune... you</font></b></i>
+<i><b><font color='#e9c7b0'>will be QUEEN, madame!”</font></b></i>
+
+170
+01:00:06,800 --> 01:00:13,400
+<font color='#b49c8b'>Bonaparte's misery</font>
+<font color='#b49c8b'>was nothing in relation</font>
+<font color='#b49c8b'>to that of the suburbs...</font>
+
+171
+01:00:50,679 --> 01:00:58,400
+<font color='#f43e05'>The hearts sing, but</font>
+<font color='#f43e05'>the stomachs scream of hunger</font>
+<font color='#f43e05'>and the night of 10 August bursts</font>
+
+172
+01:00:58,400 --> 01:01:04,360
+<font color='#f13802'>abruptly, bringing</font>
+<font color='#f13802'>to Bonaparte echos</font>
+<font color='#f13802'>of a crumbling throne...</font>
+
+173
+01:01:22,559 --> 01:01:28,920
+<font color='#ff0100'>What remains</font>
+<font color='#ff0100'>of a great event, seen</font>
+<font color='#ff0100'>in a small room.</font>
+
+174
+01:02:08,119 --> 01:02:14,679
+Anything that involves
+carnage is worthless,
+if one is not careful,
+
+175
+01:02:14,679 --> 01:02:20,039
+the best fruits of
+the Revolution will be
+lost.
+(Hist.)
+
+176
+01:02:27,719 --> 01:02:34,039
+<font color='#c15702'>At the National Assembly,</font>
+<font color='#c15702'>the agony of the ROYALTY.</font>
+
+177
+01:02:34,039 --> 01:02:44,199
+<font color='#c75b02'>(The King Louis XVI:</font>
+<font color='#c75b02'>Mr. Louis Sance)</font>
+<font color='#c75b02'>(The Queen Marie Antoinette:</font>
+<font color='#c75b02'>Ms. Suzanne Blanchetti)</font>
+
+178
+01:04:00,400 --> 01:04:05,480
+<i><b><font color='#f82003'>“If the Revolution</font></b></i>
+<i><b><font color='#f82003'>is a furnace,</font></b></i>
+<i><b><font color='#f82003'>it is also a forge!</font></b></i>
+
+179
+01:04:05,480 --> 01:04:09,119
+<i><b><font color='#fa2101'>Let us construct the REPUBLIC</font></b></i>
+<i><b><font color='#fa2101'>now!”</font></b></i>
+
+180
+01:05:08,000 --> 01:05:11,360
+<i><font color='#f01a04'>“What must be done to vanquish</font></i>
+<i><font color='#f01a04'>the enemies of the Fatherland?”</font></i>
+<font color='#f01a04'>(Hist.)</font>
+
+181
+01:05:14,880 --> 01:05:17,920
+<i><font color='#f61d01'>“Audacity,</font></i>
+<i><font color='#f61d01'>still more audacity!”</font></i>
+<font color='#f61d01'>(Hist.)</font>
+
+182
+01:05:39,880 --> 01:05:48,400
+How cowardly and vile men are.
+The peoples are hardly worth
+the trouble of concern.
+
+183
+01:05:48,400 --> 01:05:56,400
+Each one seeks his own interest
+and wants to achieve it
+through horror.
+
+184
+01:06:54,800 --> 01:07:01,800
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+185
+01:07:24,559 --> 01:07:25,199
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+186
+01:07:25,719 --> 01:07:26,119
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+187
+01:07:26,880 --> 01:07:27,679
+DECLARATION
+OF THE RIGHTS OF MAN
+AND THE CITIZEN
+
+188
+01:07:50,280 --> 01:07:55,599
+<i><font color='#de0800'>“This is what you did</font></i>
+<i><font color='#de0800'>today with the ROYALTY.”</font></i>
+<font color='#de0800'>(Hist.)</font>
+
+189
+01:09:14,079 --> 01:09:19,680
+<font color='#df6901'>And second by second,</font>
+<font color='#df6901'>while the Royalty</font>
+<font color='#df6901'>crumbled,</font>
+
+190
+01:09:19,680 --> 01:09:25,840
+<font color='#dd6903'>Napoléon vaguely</font>
+<font color='#dd6903'>felt a source of light</font>
+<font color='#dd6903'>growing in him.</font>
+
+191
+01:10:36,800 --> 01:10:43,720
+<font color='#ac9381'>IN CORSICA</font>
+
+192
+01:10:44,520 --> 01:10:51,800
+<font color='#ceb09a'>Bonaparte, who</font>
+<font color='#ceb09a'>has not returned to</font>
+<font color='#ceb09a'>Corsica for 12 years,</font>
+<font color='#ceb09a'>arrives at Ajaccio with</font>
+
+193
+01:10:51,800 --> 01:10:58,800
+<font color='#d1b29c'>his sister Elisa to</font>
+<font color='#d1b29c'>try and awaken the</font>
+<font color='#d1b29c'>national sentiment there.</font>
+<i><font color='#d1b29c'>(Hist.)</font></i>
+
+194
+01:11:17,680 --> 01:11:22,239
+<font color='#ceac98'>Elisa Bonaparte</font>
+<font color='#ceac98'>(Mrs. Yvette Dieudonné)</font>
+
+195
+01:14:33,479 --> 01:14:35,479
+<i><font color='#b09884'>“Mama Lœtitia.”</font></i>
+<font color='#b09884'>(Hist.)</font>
+
+196
+01:15:26,800 --> 01:15:35,800
+<font color='#b99f8c'>The best friend</font>
+<font color='#b99f8c'>of the Bonaparte family,</font>
+<font color='#b99f8c'>the shepherd Santo Ricci</font>
+<font color='#b99f8c'>(Mr. Henri Baudin)</font>
+
+197
+01:17:08,680 --> 01:17:10,880
+<i><b><font color='#b19886'>“Hello "Cousing".”</font></b></i>
+
+198
+01:17:28,199 --> 01:17:33,199
+<i><b><font color='#b39a86'>“This is not</font></b></i>
+<i><b><font color='#b39a86'>the time to laugh,</font></b></i>
+<i><b><font color='#b39a86'>Napoléon!....”</font></b></i>
+
+199
+01:17:44,479 --> 01:17:50,199
+<i><b><font color='#b79e8a'>“You must, this instant,</font></b></i>
+<i><b><font color='#b79e8a'>learn</font></b></i>
+<i><b><font color='#b79e8a'>the awful truth.”</font></b></i>
+
+200
+01:18:10,399 --> 01:18:16,720
+<i><b><font color='#bca08b'>“Paoli, our old</font></b></i>
+<i><b><font color='#bca08b'>and great Paoli,</font></b></i>
+<i><b><font color='#bca08b'>a venerated father to us all,</font></b></i>
+
+201
+01:18:16,720 --> 01:18:21,199
+<i><font color='#bfa48f'>is about to sell us to</font></i>
+<i><font color='#bfa48f'>the English.”</font></i>
+<b><font color='#bfa48f'>(Hist.)</font></b>
+
+202
+01:19:33,359 --> 01:19:39,720
+<i><font color='#a78f7e'>“As long as I live,</font></i>
+<i><font color='#a78f7e'>Corsica will never</font></i>
+<i><font color='#a78f7e'>become English.”</font></i>
+<b><font color='#a78f7e'>(Hist.)</font></b>
+
+203
+01:20:29,239 --> 01:20:36,439
+<font color='#af9582'>All the scenes in Corsica,</font>
+<font color='#af9582'>notably, were shot</font>
+<font color='#af9582'>in the exact houses</font>
+
+204
+01:20:36,439 --> 01:20:44,039
+<b><font color='#b09783'>and sites where rigorously</font></b>
+<b><font color='#b09783'>controlled facts</font></b>
+<b><font color='#b09783'>took place.</font></b>
+<b><font color='#b09783'>(</font></b><i><b><font color='#b09783'>Author's Note.</font></b></i><b><font color='#b09783'>)</font></b>
+
+205
+01:20:44,039 --> 01:20:45,520
+<b><font color='#b05265'>HIS COUNTRY</font></b>
+
+206
+01:22:49,760 --> 01:22:55,600
+<font color='#dc6b82'>At Casone cave,</font>
+<font color='#dc6b82'>which had seen his adolescent</font>
+<font color='#dc6b82'>reveries,</font>
+
+207
+01:22:55,600 --> 01:23:01,800
+<font color='#d7667b'>Napoléon came to meditate</font>
+<font color='#d7667b'>on the fate</font>
+<font color='#d7667b'>of his tiny fatherland.</font>
+
+208
+01:23:35,760 --> 01:23:37,880
+<b><font color='#c65e71'>His House.</font></b>
+
+209
+01:23:39,239 --> 01:23:44,640
+NAPOLEON
+WAS BORN IN THIS HOUSE
+15 AUGUST 1769
+
+210
+01:24:21,039 --> 01:24:27,199
+<b><font color='#c65e73'>His Family.</font></b>
+
+211
+01:24:48,279 --> 01:24:55,479
+<font color='#ce6377'>His dear mama Lœtitia,</font>
+<font color='#ce6377'>his brothers Joseph, Lucien,</font>
+<font color='#ce6377'>Louis, Jérôme, his sisters</font>
+
+212
+01:24:55,479 --> 01:25:02,159
+<b><font color='#db697f'>Elisa, Pauline, Caroline,</font></b>
+<b><font color='#db697f'>in the adorable garden</font></b>
+<b><font color='#db697f'>of Milelli.</font></b>
+<b><font color='#db697f'>(</font></b><i><b><font color='#db697f'>Historical</font></b></i><b><font color='#db697f'>)</font></b>
+
+213
+01:25:06,760 --> 01:25:09,439
+<font color='#d06378'>Lœtitia Bonaparte...</font>
+<font color='#d06378'>(Mrs. Eugénie Buffet)</font>
+
+214
+01:25:49,079 --> 01:25:56,720
+<font color='#e16b7d'>... the Bonaparte family</font>
+<font color='#e16b7d'>finds in front of it the jealous</font>
+<font color='#e16b7d'>ferocity of Pozzo di Borgo</font>
+
+215
+01:25:56,720 --> 01:26:04,520
+<b><font color='#e96c82'>become attorney general</font></b>
+<b><font color='#e96c82'>in Corsica</font></b>
+<b><font color='#e96c82'>and secretary of Paoli.</font></b>
+<b><font color='#e96c82'>(Hist)</font></b>
+
+216
+01:26:36,199 --> 01:26:43,880
+<font color='#e46b82'>Will he choose, outside</font>
+<font color='#e46b82'>every political agitation,</font>
+<font color='#e46b82'>a sweet and familial life...</font>
+
+217
+01:26:59,239 --> 01:27:06,479
+<font color='#d26479'>... or indeed, sacrificing</font>
+<font color='#d26479'>his personal happiness,</font>
+<font color='#d26479'>will he try to become</font>
+
+218
+01:27:06,479 --> 01:27:10,880
+<font color='#eb6d83'>an important player</font>
+<font color='#eb6d83'>on the world stage?...</font>
+
+219
+01:27:25,239 --> 01:27:31,640
+<font color='#bea290'>Napoléon, an official representative</font>
+<font color='#bea290'>of France,</font>
+<font color='#bea290'>soon saw move away from him</font>
+
+220
+01:27:31,640 --> 01:27:38,239
+<font color='#c0a490'>every inhabitant</font>
+<font color='#c0a490'>who wished, with Paoli,</font>
+<font color='#c0a490'>that English domination and</font>
+
+221
+01:27:38,239 --> 01:27:43,079
+<b><font color='#bba08c'>the hate of Pozzo find there</font></b>
+<b><font color='#bba08c'>a fertile ground.</font></b>
+<b><font color='#bba08c'>(</font></b><i><b><font color='#bba08c'>Hist.</font></b></i><b><font color='#bba08c'>)</font></b>
+
+222
+01:27:59,800 --> 01:28:02,039
+<i><font color='#d5b7a0'>“Death to Napoléon Buonaparte!”</font></i>
+<b><font color='#d5b7a0'>(Hist.)</font></b>
+
+223
+01:30:30,760 --> 01:30:37,439
+<font color='#ff6d75'>It is at this time that,</font>
+<font color='#ff6d75'>neglecting the wise counsel</font>
+<font color='#ff6d75'>of his family who advised</font>
+
+224
+01:30:37,439 --> 01:30:45,279
+<font color='#f66d73'>fleeing the hate of an entire</font>
+<font color='#f66d73'>people, that Napoléon came each</font>
+<font color='#f66d73'>day to the the deserted point</font>
+
+225
+01:30:45,279 --> 01:30:51,399
+<font color='#da7378'>of the Sanguinaires</font>
+<font color='#da7378'>speaking of the future</font>
+<font color='#da7378'>with his friend the Ocean.</font>
+
+226
+01:32:24,399 --> 01:32:32,199
+<font color='#a8917d'>The entire question was</font>
+<font color='#a8917d'>whether Corsica</font>
+<font color='#a8917d'>would become English,</font>
+<font color='#a8917d'>according to Paoli's desire,</font>
+
+227
+01:32:32,199 --> 01:32:39,279
+<b><font color='#a68e7d'>or whether it would remain</font></b>
+<b><font color='#a68e7d'>French according to that</font></b>
+<b><font color='#a68e7d'>of Bonaparte.</font></b>
+<i><b><font color='#a68e7d'>(Arthur Lévy)</font></b></i>
+
+228
+01:32:53,520 --> 01:32:56,640
+<font color='#ebc9b1'>Paoli</font>
+<font color='#ebc9b1'>(Mr. Schutz)</font>
+
+229
+01:33:03,680 --> 01:33:11,279
+<i><b><font color='#d9b9a3'>“Napoléon Buonaparte, by</font></b></i>
+<i><b><font color='#d9b9a3'>his secret correspondence</font></b></i>
+<i><b><font color='#d9b9a3'>with the Convention, is</font></b></i>
+<i><b><font color='#d9b9a3'>currently the most serious</font></b></i>
+
+230
+01:33:11,279 --> 01:33:18,680
+<i><b><font color='#d9b8a2'>obstacle to our alliance</font></b></i>
+<i><b><font color='#d9b8a2'>with England.</font></b></i>
+<i><b><font color='#d9b8a2'>In the name of the Corsican Fatherland</font></b></i>
+<i><b><font color='#d9b8a2'>give me his life.” </font></b></i>
+
+231
+01:34:01,159 --> 01:34:10,640
+Order to civil and military
+authorities to
+pursue Napoléon
+Buonaparte, traitor to his fatherland.
+
+232
+01:34:10,640 --> 01:34:19,800
+A bonus of 500 pounds to whoever
+brings him back dead or alive.
+For the Corsican Consultation.
+Paoli
+
+233
+01:34:52,880 --> 01:34:59,640
+<font color='#ad947f'>At the Rey</font>
+<font color='#ad947f'>Mill (Roy Mill) inn</font>
+<font color='#ad947f'>where politics holds its</font>
+<font color='#ad947f'>seats.</font>
+
+234
+01:35:45,800 --> 01:35:51,560
+ORDER
+To civil & military Authorities
+to pursue Napoléon
+Buonaparte, traitor to the fatherland.
+
+235
+01:35:51,560 --> 01:35:54,920
+A bonus of FIVE HUNDRED pounds
+to the one who brings him back dead or alive.
+
+236
+01:35:54,920 --> 01:35:57,720
+In the name of the Corsican Consultation
+The Supreme Chief
+PAOLI
+
+237
+01:36:14,720 --> 01:36:21,279
+<font color='#d3b69f'>Napoléon's brothers,</font>
+<font color='#d3b69f'>Lucien and Joseph, leave</font>
+<font color='#d3b69f'>disguised for Calvi</font>
+
+238
+01:36:21,279 --> 01:36:26,000
+<font color='#ddbda7'>to ask for help</font>
+<font color='#ddbda7'>from the French authorities.</font>
+
+239
+01:37:53,399 --> 01:37:56,560
+<i><b><font color='#dbbba2'>“What will you do</font></b></i>
+<i><b><font color='#dbbba2'>my dear son?”</font></b></i>
+
+240
+01:38:00,119 --> 01:38:02,640
+<i><b><font color='#caac98'>“Act, Mama!”</font></b></i>
+
+241
+01:38:15,600 --> 01:38:24,680
+<font color='#c05603'>From this instant until</font>
+<font color='#c05603'>his return to France,</font>
+<font color='#c05603'>the life of the young lieutenant</font>
+
+242
+01:38:24,680 --> 01:38:31,840
+<b><font color='#ce5d00'>of artillery will become the</font></b>
+<b><font color='#ce5d00'>most incredible of adventure</font></b>
+<b><font color='#ce5d00'>novels.</font></b>
+
+243
+01:38:41,960 --> 01:38:48,680
+<i><font color='#c75b01'>“Our fatherland is Spain</font></i>
+<i><font color='#c75b01'>with Buttafuaco!</font></i>
+<i><font color='#c75b01'>Death to Napoléon Bonaparte!”</font></i>
+<b><font color='#c75b01'>(Hist.)</font></b>
+
+244
+01:38:55,279 --> 01:38:59,920
+<i><b><font color='#d45f01'>“No, our fatherland</font></b></i>
+<i><b><font color='#d45f01'>is Italy with</font></b></i>
+<i><b><font color='#d45f01'>the Duke of Savoy!</font></b></i>
+
+245
+01:38:59,920 --> 01:39:01,720
+<i><font color='#cf5f00'>Death to Napoléon Bonaparte!”</font></i>
+<b><font color='#cf5f00'>(Hist.)</font></b>
+
+246
+01:39:12,119 --> 01:39:17,000
+<i><font color='#cc5d00'>“No, our fatherland</font></i>
+<i><font color='#cc5d00'>is England with Paoli!</font></i>
+<i><font color='#cc5d00'>Death to Napoléon Bonaparte!”</font></i>
+<b><font color='#cc5d00'>(Hist.)</font></b>
+
+247
+01:39:39,880 --> 01:39:42,199
+<i><font color='#d05f02'>“No... our fatherland</font></i>
+<i><font color='#d05f02'>is France!”</font></i>
+<b><font color='#d05f02'>(Hist.)</font></b>
+
+248
+01:39:44,720 --> 01:39:45,359
+<i><b><font color='#cf5f02'>“With me!”</font></b></i>
+<b><font color='#cf5f02'>(Hist.)</font></b>
+
+249
+01:41:53,399 --> 01:41:57,960
+<i><b><font color='#cf5f05'>“If you could</font></b></i>
+<i><b><font color='#cf5f05'>comprehend what dream</font></b></i>
+<i><b><font color='#cf5f05'>enthuses my soul,</font></b></i>
+
+250
+01:41:57,960 --> 01:42:00,800
+<i><font color='#cf6003'>you would all follow me.”</font></i>
+<b><font color='#cf6003'>(Hist.)</font></b>
+
+251
+01:42:29,439 --> 01:42:35,199
+<i><font color='#d05f01'>“France, you see,</font></i>
+<i><font color='#d05f01'>is the mother of us all!...”</font></i>
+<i><font color='#d05f01'>(Historical.)</font></i>
+
+252
+01:42:47,319 --> 01:42:53,399
+<i><b><font color='#cf5d03'>“Believe me...</font></b></i>
+<i><b><font color='#cf5d03'>There will come a man who</font></b></i>
+<i><b><font color='#cf5d03'>will know how to gather in his head</font></b></i>
+
+253
+01:42:53,399 --> 01:42:57,479
+<i><font color='#cf5e01'>all the hopes</font></i>
+<i><font color='#cf5e01'>of the nation, and then....”</font></i>
+<b><font color='#cf5e01'>(Hist.)</font></b>
+
+254
+01:46:46,279 --> 01:46:50,439
+<i><b><font color='#fe8a1b'>“The war with France</font></b></i>
+<i><b><font color='#fe8a1b'>is declared.”</font></b></i>
+<b><font color='#fe8a1b'>(Historical)</font></b>
+
+255
+01:47:56,399 --> 01:47:58,840
+<i><b><font color='#fd7702'>“I am taking it away.</font></b></i>
+<i><b><font color='#fd7702'>It is too big</font></b></i>
+<i><b><font color='#fd7702'>for you!...”</font></b></i>
+
+256
+01:48:51,039 --> 01:48:57,760
+<font color='#05fba2'>In an instant,</font>
+<font color='#05fba2'>the announcement of the declaration</font>
+<font color='#05fba2'>of war, linked to the flight</font>
+
+257
+01:48:57,760 --> 01:49:01,960
+<font color='#00dd98'>of Bonaparte, added to</font>
+<font color='#00dd98'>the overexcitement</font>
+<font color='#00dd98'>of minds.</font>
+
+258
+01:53:10,000 --> 01:53:13,199
+<font color='#00caf1'>Surrounded by the tower</font>
+<font color='#00caf1'>of Capitello.</font>
+
+259
+01:53:55,760 --> 01:53:58,760
+<font color='#05b2d7'>The sea... supreme</font>
+<font color='#05b2d7'>resource of outlaws.</font>
+
+260
+01:54:18,720 --> 01:54:20,359
+<i><b><font color='#0097bb'>“Neither sails, nor oars!”</font></b></i>
+
+261
+01:55:04,279 --> 01:55:06,079
+<i><b><font color='#03acd3'>“I will</font></b></i>
+<i><b><font color='#03acd3'>give it back to you!”</font></b></i>
+
+262
+01:55:56,800 --> 01:56:03,680
+<font color='#00b1d8'>It is thus that on 26 May</font>
+<font color='#00b1d8'>1795 at the tower of Capitello,</font>
+<font color='#00b1d8'>after an epic pursuit,</font>
+
+263
+01:56:03,680 --> 01:56:10,640
+<font color='#01b0d7'>Napoléon set sail out to</font>
+<font color='#01b0d7'>sea in the boss Ucciani's</font>
+<font color='#01b0d7'>gondola.</font>
+<b><font color='#01b0d7'>(</font></b><i><b><font color='#01b0d7'>d'Alboise</font></b></i><b><font color='#01b0d7'>)</font></b>
+
+
+264
+01:56:47,119 --> 01:56:48,840
+<font color='#fe0021'>The outlaws.</font>
+
+265
+02:00:37,159 --> 02:00:40,680
+<font color='#0182a0'>The maquis always saves</font>
+<font color='#0182a0'>the outlaws.</font>
+
+266
+02:01:48,520 --> 02:01:51,680
+<font color='#0098b9'>The dangerous sirocco</font>
+<font color='#0098b9'>rose gradually.</font>
+
+267
+02:02:04,640 --> 02:02:12,479
+<font color='#00a3c6'>Napoléon, dreading the </font>
+<font color='#00a3c6'>storm, sought to</font>
+<font color='#00a3c6'>follow the coast.</font>
+
+268
+02:03:34,600 --> 02:03:41,399
+<font color='#0481a2'>Vertiginously</font>
+<font color='#0481a2'>carried out to sea,</font>
+<font color='#0481a2'>Napoléon was about to</font>
+
+269
+02:03:41,399 --> 02:03:46,000
+<font color='#0081a1'>begin an epic battle</font>
+<font color='#0081a1'>against destiny.</font>
+
+270
+02:04:13,319 --> 02:04:22,479
+<font color='#c75501'>That same night, at the</font>
+<font color='#c75501'>same hour, another</font>
+<font color='#c75501'>formidable storm</font>
+<font color='#c75501'>was raging at the Convention.</font>
+
+271
+02:04:40,640 --> 02:04:43,119
+<font color='#cd5800'>“My conclusion?</font>
+<font color='#cd5800'>It is a decree</font>
+
+272
+02:04:43,119 --> 02:04:47,239
+<font color='#da6101'>of indictment</font>
+<font color='#da6101'>against all the Girondins!”</font>
+<font color='#da6101'>(Hist.)</font>
+
+273
+02:06:04,600 --> 02:06:13,439
+<font color='#cb5800'>The assembly</font>
+<font color='#cb5800'>felt like it was under</font>
+<font color='#cb5800'>lightning.</font>
+<b><font color='#cb5800'>(</font></b><i><b><font color='#cb5800'>Thibaudeau</font></b></i><b><font color='#cb5800'>)</font></b>
+
+274
+02:13:04,840 --> 02:13:12,680
+<font color='#e24c00'>While all the giants</font>
+<font color='#e24c00'>of the Revolution were to be</font>
+
+275
+02:13:12,680 --> 02:13:24,279
+<font color='#db4801'>brought one after the other</font>
+<font color='#db4801'>into the frightful whirlwinds</font>
+<font color='#db4801'>of the Terror...</font>
+
+276
+02:13:24,279 --> 02:13:35,359
+<font color='#ff5804'>... a wild, laughing man,</font>
+<font color='#ff5804'>tamer of oceans, opening</font>
+<font color='#ff5804'>his tricolor sail</font>
+<font color='#ff5804'>to the mad wind of the Revolution,</font>
+
+277
+02:13:35,359 --> 02:13:46,600
+<font color='#ff4704'>would be borne magnificently</font>
+<font color='#ff4704'>by the revolutionary aquilon</font>
+<font color='#ff4704'>to the highest pediment of</font>
+<font color='#ff4704'>History.</font>
+
+278
+02:15:45,119 --> 02:15:52,199
+<font color='#927a6b'>Historical providence:</font>
+<font color='#927a6b'>on a sailboat carrying</font>
+<font color='#927a6b'>two of the brothers of</font>
+<font color='#927a6b'>Bonaparte...</font>
+
+279
+02:15:52,199 --> 02:15:55,000
+<font color='#897262'>CHANCE</font>
+
+280
+02:18:22,399 --> 02:18:27,920
+<i><b><font color='#9c8573'>“My family... quick, quick...</font></b></i>
+<i><b><font color='#9c8573'>to his rescue... to Aspretto.”</font></b></i>
+<i><b><font color='#9c8573'>(Historical.)</font></b></i>
+
+281
+02:18:58,479 --> 02:19:00,760
+<font color='#826e60'>Some hours</font>
+<font color='#826e60'>later.</font>
+
+282
+02:19:42,200 --> 02:19:47,360
+<font color='#a78d7b'>“Alas! my children.</font>
+<font color='#a78d7b'>Our poor house</font>
+<font color='#a78d7b'>ransacked on the orders</font>
+
+283
+02:19:47,360 --> 02:19:52,719
+<font color='#a88c7c'>of Paoli! We ourselves</font>
+<font color='#a88c7c'>forced to flee</font>
+<font color='#a88c7c'>our dear fatherland.”</font>
+
+284
+02:20:05,520 --> 02:20:09,319
+<font color='#af9582'>“Chance” carried</font>
+<font color='#af9582'>towards France</font>
+
+285
+02:20:09,319 --> 02:20:15,319
+<b><font color='#b09683'>a future emperor,</font></b>
+<b><font color='#b09683'>3 kings, and a queen.</font></b>
+<i><b><font color='#b09683'>(Historical)</font></b></i>
+
+286
+02:20:20,879 --> 02:20:27,360
+<font color='#b29885'>“... And now,</font>
+<font color='#b29885'>we have no more</font>
+<font color='#b29885'>than one fatherland, only one...</font>
+
+287
+02:20:31,479 --> 02:20:32,639
+<font color='#b79d8a'>... France!”</font>
+
+288
+02:20:42,680 --> 02:20:47,000
+<font color='#004eb9'>English boats</font>
+<font color='#004eb9'>monitoring</font>
+<font color='#004eb9'>the Mediterranean.</font>
+
+289
+02:21:07,639 --> 02:21:10,920
+<font color='#0447b3'>CHANCE</font>
+
+290
+02:21:25,079 --> 02:21:29,760
+<i><b><font color='#035bc8'>“Captain,</font></b></i>
+<i><b><font color='#035bc8'>allow me to sink</font></b></i>
+<i><b><font color='#035bc8'>this flagless sailboat...”</font></b></i>
+
+291
+02:21:32,079 --> 02:21:36,479
+<i><b><font color='#0067cf'>“No, no,</font></b></i>
+<i><b><font color='#0067cf'>my little Nelson.”</font></b></i>
+<i><b><font color='#0067cf'>(Historical)</font></b></i>
+
+292
+02:21:44,879 --> 02:21:52,600
+<i><b><font color='#025ec9'>“Let us not lose</font></b></i>
+<i><b><font color='#025ec9'>our bullets</font></b></i>
+<i><b><font color='#025ec9'>for fugitives</font></b></i>
+<i><b><font color='#025ec9'>of such little importance.”</font></b></i>
+
+293
+02:23:25,639 --> 02:23:33,719
+<font color='#e4c4ad'>THE SIEGE OF</font>
+<font color='#e4c4ad'>TOULON</font>
+
+294
+02:23:33,719 --> 02:23:43,000
+<font color='#e1c0a7'>Taking refuge in the suburbs</font>
+<font color='#e1c0a7'>of Toulon to flee the</font>
+<font color='#e1c0a7'>September massacres,</font>
+<font color='#e1c0a7'>Violine and Fleuri</font>
+
+295
+02:23:43,000 --> 02:23:52,159
+<font color='#e1c0a7'>quickly understood that the province</font>
+<font color='#e1c0a7'>would not escape the fury</font>
+<font color='#e1c0a7'>of extreme factions.</font>
+
+296
+02:23:52,159 --> 02:23:59,280
+<font color='#d1b59e'>Violine, the little daughter</font>
+<font color='#d1b59e'>of Tristan Fleuri.</font>
+<font color='#d1b59e'>(Annabella)</font>
+
+297
+02:26:52,920 --> 02:26:57,879
+<font color='#b89d8a'>“The civil war,</font>
+<font color='#b89d8a'>as horrible</font>
+<font color='#b89d8a'>as it may be,</font>
+
+298
+02:26:57,879 --> 02:27:07,680
+<font color='#b89d8a'>is nothing yet my friends</font>
+<font color='#b89d8a'>compared to the terrible</font>
+<font color='#b89d8a'>tragedy</font>
+<font color='#b89d8a'>of our open borders.”</font>
+
+299
+02:29:25,639 --> 02:29:33,399
+<font color='#f5d4b9'>“We are going backwards all over!</font>
+<font color='#f5d4b9'>It is a disaster,</font>
+<font color='#f5d4b9'>France is lost!”</font>
+
+300
+02:30:17,959 --> 02:30:28,799
+<font color='#b39a86'>In September 1793, the port</font>
+<font color='#b39a86'>of Toulon, where 20,000 Englishmen,</font>
+<font color='#b39a86'>Italians, and Spaniards were</font>
+
+301
+02:30:28,799 --> 02:30:37,399
+<font color='#b39a86'>entrenched, was besieged by a</font>
+<font color='#b39a86'>French army commanded</font>
+<font color='#b39a86'>by General Carteaux.</font>
+
+302
+02:30:37,399 --> 02:30:41,879
+<font color='#eac7b0'>Napoléon who came</font>
+<font color='#eac7b0'>to be named Second</font>
+
+303
+02:30:41,879 --> 02:30:47,280
+<b><font color='#eac7b0'>Captain of the Toulon</font></b>
+<b><font color='#eac7b0'>Artillery...</font></b>
+<i><b><font color='#eac7b0'>(Historical)</font></b></i>
+
+304
+02:31:21,040 --> 02:31:25,280
+<font color='#b79d8a'>...was going to find</font>
+<font color='#b79d8a'>the armies of the Republic</font>
+
+305
+02:31:25,280 --> 02:31:30,000
+<b><font color='#b79d8a'>in a state defying all</font></b>
+<b><font color='#b79d8a'>imagination.</font></b>
+<i><b><font color='#b79d8a'>(Stendhal, Hist.)</font></b></i>
+
+306
+02:34:51,920 --> 02:35:00,760
+<font color='#d0b19a'>The painter Carteaux,</font>
+<font color='#d0b19a'>general in chief of the armies</font>
+<font color='#d0b19a'>besieging Toulon.</font>
+<font color='#d0b19a'>(Mr. Courtois)</font>
+
+307
+02:36:38,719 --> 02:36:43,440
+<font color='#cdaf98'>Salicetti, Corsican deputy at</font>
+<font color='#cdaf98'>the Convention, named</font>
+
+308
+02:36:43,440 --> 02:36:48,000
+<font color='#cdaf98'>Army Commissioner</font>
+<font color='#cdaf98'>of Toulon.</font>
+<font color='#cdaf98'>(Philippe Hériat)</font>
+
+309
+02:37:03,360 --> 02:37:10,440
+<i><b><font color='#cbad97'>“To the health of the great</font></b></i>
+<i><b><font color='#cbad97'>General Carteaux, future</font></b></i>
+<i><b><font color='#cbad97'>conqueror of Toulon.”</font></b></i>
+
+310
+02:38:09,440 --> 02:38:13,040
+<i><b><font color='#ccae97'>“What did you come here to do,</font></b></i>
+<i><b><font color='#ccae97'>young man?”</font></b></i>
+
+311
+02:38:14,719 --> 02:38:19,200
+<i><b><font color='#c7aa95'>“I come as second in</font></b></i>
+<i><b><font color='#c7aa95'>command to the artillery of the siege,</font></b></i>
+<i><b><font color='#c7aa95'>my general.”</font></b></i>
+<i><b><font color='#c7aa95'>(Historical)</font></b></i>
+
+312
+02:38:21,239 --> 02:38:23,120
+<i><b><font color='#bea18d'>“The artillery?”</font></b></i>
+
+313
+02:38:34,920 --> 02:38:40,760
+<b><font color='#cdaf98'>“But we have no</font></b>
+<b><font color='#cdaf98'>need! We will take</font></b>
+<b><font color='#cdaf98'>Toulon with bladed arms!”</font></b>
+<i><b><font color='#cdaf98'>(Historical)</font></b></i>
+
+314
+02:39:05,440 --> 02:39:10,719
+<b><font color='#cfb197'>“In my place, what</font></b>
+<b><font color='#cfb197'>would you do, kid?”</font></b>
+<i><b><font color='#cfb197'>(Historical)</font></b></i>
+
+315
+02:39:50,680 --> 02:39:52,799
+ENGLISH
+REDOUBT
+
+316
+02:40:16,440 --> 02:40:22,399
+<i><b><font color='#cdaf99'>“Once the Aiguillete fort is taken,</font></b></i>
+<i><b><font color='#cdaf99'>the English will abandon</font></b></i>
+<i><b><font color='#cdaf99'>the town.”</font></b></i>
+<i><b><font color='#cdaf99'>(Historical)</font></b></i>
+
+317
+02:40:30,239 --> 02:40:34,159
+<i><b><font color='#cfb19b'>“Well, “Captain Cannon”,</font></b></i>
+<i><b><font color='#cfb19b'>you are not good at</font></b></i>
+<i><b><font color='#cfb19b'>grography.”</font></b></i>
+<i><b><font color='#cfb19b'>(Historical)</font></b></i>
+
+318
+02:41:11,200 --> 02:41:16,479
+<i><b><font color='#d1b49d'>“Remember this well, young</font></b></i>
+<i><b><font color='#d1b49d'>man, firstly the artillery</font></b></i>
+<i><b><font color='#d1b49d'>is useless and secondly...”</font></b></i>
+
+319
+02:41:22,200 --> 02:41:24,399
+<font color='#d9b9a2'>“And secondly,</font>
+<font color='#d9b9a2'>it is unpleasant.”</font>
+
+320
+02:42:09,639 --> 02:42:14,680
+<i><b><font color='#dbbaa4'>“This time, I will not hesitate,</font></b></i>
+<i><b><font color='#dbbaa4'>I will remind him of the Ecole</font></b></i>
+<i><b><font color='#dbbaa4'>de Brienne.”</font></b></i>
+
+321
+02:42:44,719 --> 02:42:47,040
+<i><b><font color='#d9baa1'>“My Captain, I was...”</font></b></i>
+
+322
+02:42:50,760 --> 02:42:53,399
+<i><b><font color='#d9bba6'>“Bread, olives,</font></b></i>
+<i><b><font color='#d9bba6'>and silence!”</font></b></i>
+
+323
+02:44:11,879 --> 02:44:16,040
+<font color='#bda192'>Carteaux, recognized as incapable,</font>
+<font color='#bda192'>was replaced by General</font>
+<font color='#bda192'>Dugommier.</font>
+
+324
+02:44:27,360 --> 02:44:31,639
+<font color='#bea48f'>Training men and horses,</font>
+<font color='#bea48f'>Napoléon deploys an incredible</font>
+<font color='#bea48f'>zeal.</font>
+<font color='#bea48f'>(Historical)</font>
+
+325
+02:45:03,600 --> 02:45:07,879
+<font color='#bda18c'>General Dugommier</font>
+<font color='#bda18c'>did not take long to</font>
+
+326
+02:45:07,879 --> 02:45:15,440
+<font color='#bda18c'>realize the exceptional</font>
+<font color='#bda18c'>qualities of his little</font>
+<font color='#bda18c'>artillery captain.</font>
+
+327
+02:45:59,920 --> 02:46:05,159
+<font color='#f9d5bb'>Inspection.</font>
+
+328
+02:47:22,040 --> 02:47:24,200
+<i><b><font color='#dabaa3'>“Too short!”</font></b></i>
+
+329
+02:47:42,040 --> 02:47:45,559
+<font color='#bea38d'>Toulon thus passed for</font>
+<font color='#bea38d'>one of the vastest and</font>
+
+330
+02:47:45,559 --> 02:47:50,200
+<font color='#bea38d'>most formidable entrenched</font>
+<font color='#bea38d'>camps in the world.</font>
+<font color='#bea38d'>(Historical)</font>
+
+331
+02:48:39,600 --> 02:48:45,399
+<i><b><font color='#bca08b'>“Citizen-General, the fire</font></b></i>
+<i><b><font color='#bca08b'>on “Little Gibraltar” makes</font></b></i>
+
+332
+02:48:45,399 --> 02:48:52,479
+<i><b><font color='#bca08b'>the bastion untenable. We</font></b></i>
+<i><b><font color='#bca08b'>have given the order to evacuate</font></b></i>
+<i><b><font color='#bca08b'>the rooms.”</font></b></i>
+
+333
+02:48:59,639 --> 02:49:05,360
+<font color='#c2a693'>The English redoubt of</font>
+<font color='#c2a693'>“Little Gibraltar.”</font>
+
+334
+02:49:32,799 --> 02:49:35,159
+<i><b><font color='#bea08d'>“Take this piece to</font></b></i>
+<i><b><font color='#bea08d'>its place.”</font></b></i>
+
+335
+02:49:38,239 --> 02:49:41,000
+<i><b><font color='#c1a691'>“Impossible, my Captain!”</font></b></i>
+
+336
+02:49:42,920 --> 02:49:45,920
+<i><b><font color='#bea390'>“Impossible is not</font></b></i>
+<i><b><font color='#bea390'>French.”</font></b></i>
+<i><b><font color='#bea390'>(Historical)</font></b></i>
+
+337
+02:50:45,799 --> 02:50:50,680
+<i><b><font color='#c0a48e'>“Mind your trade</font></b></i>
+<i><b><font color='#c0a48e'>as a deputy and leave me</font></b></i>
+<i><b><font color='#c0a48e'>to do my trade as a gunman.</font></b></i>
+
+338
+02:50:50,680 --> 02:50:55,600
+<i><b><font color='#c0a48e'>This battery will stay there,</font></b></i>
+<i><b><font color='#c0a48e'>otherwise I am leaving!”</font></b></i>
+
+339
+02:50:57,440 --> 02:51:01,000
+<i><b><font color='#c7ab91'>“Heads have rolled for</font></b></i>
+<i><b><font color='#c7ab91'>less bold replies!”</font></b></i>
+
+340
+02:51:34,680 --> 02:51:38,600
+<i><b><font color='#d4b59e'>“Tremendous! I no longer</font></b></i>
+<i><b><font color='#d4b59e'>need sand.”</font></b></i>
+
+341
+02:51:42,239 --> 02:51:45,399
+<i><b><font color='#d1b39b'>“My friend Junot, I like</font></b></i>
+<i><b><font color='#d1b39b'>you.”</font></b></i>
+
+342
+02:52:22,520 --> 02:52:27,760
+Battery of Fearless Men
+
+343
+02:53:48,440 --> 02:53:53,200
+<i><b><font color='#c8ac97'>“Captain Bonaparte, I</font></b></i>
+<i><b><font color='#c8ac97'>name you Commander in</font></b></i>
+<i><b><font color='#c8ac97'>Chief of the artillery!”</font></b></i>
+
+344
+02:54:22,479 --> 02:54:26,760
+<i><b><font color='#c4a994'>“To take Toulon, it is</font></b></i>
+<i><b><font color='#c4a994'>better to let him do it.”</font></b></i>
+
+345
+02:54:49,680 --> 02:54:55,200
+<font color='#ccae97'>Free to move,</font>
+<font color='#ccae97'>Bonaparte goes on the offensive.</font>
+
+346
+02:55:38,079 --> 02:55:44,200
+<font color='#baa08c'>He establishes two batteries</font>
+<font color='#baa08c'>on the edge of the sea, called the</font>
+<font color='#baa08c'>“Batteries of Montagne</font>
+
+347
+02:55:44,200 --> 02:55:50,440
+<font color='#baa08c'>and Sans-Culottes”. Which</font>
+<font color='#baa08c'>obligated enemy vessels</font>
+<font color='#baa08c'>to evacuate the Petite Rade.</font>
+<font color='#baa08c'>(Historical)</font>
+
+348
+02:57:05,440 --> 02:57:14,440
+<font color='#bea38e'>With insane bravura</font>
+<font color='#bea38e'>he pursues his successes until</font>
+<font color='#bea38e'>the Big Tower, from which he isolates</font>
+<font color='#bea38e'>the garrison.</font>
+
+349
+02:58:03,040 --> 02:58:10,600
+<font color='#fe7e00'>On 16 December 1793,</font>
+<font color='#fe7e00'>French Headquarters</font>
+<font color='#fe7e00'>held a decisive</font>
+<font color='#fe7e00'>council of war.</font>
+
+350
+02:58:58,639 --> 02:59:01,639
+<i><b><font color='#ff830e'>“I order or I keep quiet.”</font></b></i>
+
+351
+02:59:41,680 --> 02:59:51,639
+<font color='#f97302'>The enemy council of</font>
+<font color='#f97302'>war was quite reminiscent</font>
+<font color='#f97302'>of the Tower of Babel.</font>
+
+352
+03:00:00,159 --> 03:00:05,639
+<font color='#f67301'>The English Admiral</font>
+<font color='#f67301'>Hoode...</font>
+<font color='#f67301'>(Mr. Day)</font>
+
+353
+03:00:12,479 --> 03:00:18,000
+<i><b><font color='#f67204'>“We are masters</font></b></i>
+<i><b><font color='#f67204'>of the sea.</font></b></i>
+<i><b><font color='#f67204'>The French fleet</font></b></i>
+
+354
+03:00:18,000 --> 03:00:24,639
+<i><font color='#f67204'>is our hostage,</font></i>
+<i><font color='#f67204'>prisoner in the port.”</font></i>
+<b><font color='#f67204'>(Hist.-Cottin)</font></b>
+
+355
+03:00:45,159 --> 03:00:51,600
+<i><font color='#ef7303'>“20,000 Englishmen,</font></i>
+<i><font color='#ef7303'>Spaniards, Italians,</font></i>
+<i><font color='#ef7303'>make our forts</font></i>
+
+356
+03:00:51,600 --> 03:00:56,200
+<i><font color='#ef7303'>impregnable.</font></i>
+<i><font color='#ef7303'>I have</font></i>
+<i><font color='#ef7303'>no worries.”</font></i>
+<i><font color='#ef7303'>(Hist)</font></i>
+
+357
+03:01:38,079 --> 03:01:43,600
+<i><font color='#fe7802'>“Toulon has only one weak side</font></i>
+<i><font color='#fe7802'>on the harbor, the promontory</font></i>
+
+358
+03:01:43,600 --> 03:01:48,479
+<i><font color='#fe7802'>of Aiguillette. If we</font></i>
+<i><font color='#fe7802'>take it, the city is</font></i>
+<i><font color='#fe7802'>ours.”</font></i>
+
+359
+03:01:56,319 --> 03:02:00,000
+<i><font color='#fa7903'>“We will thus</font></i>
+<i><font color='#fa7903'>attack tonight at midnight.”</font></i>
+
+360
+03:02:22,799 --> 03:02:28,040
+<i><font color='#f97703'>“Are you all indeed of</font></i>
+<i><font color='#f97703'>this opinion?”</font></i>
+
+361
+03:02:49,319 --> 03:02:51,959
+<i><font color='#f36f01'>- “You do not understand war!”</font></i>
+<i><font color='#f36f01'>-“Is this a betrayal?”</font></i>
+
+362
+03:02:51,959 --> 03:02:53,959
+<i><font color='#f36f01'>- “Is this a betrayal?”</font></i>
+<i><font color='#f36f01'>-“Who and what is in charge here?”</font></i>
+
+363
+03:02:53,959 --> 03:02:56,440
+<i><font color='#f36f01'>- “You do not understand war!”</font></i>
+<i><font color='#f36f01'>-“Is this a betrayal?”</font></i>
+
+364
+03:02:56,440 --> 03:02:58,399
+<i><font color='#f36f01'>- “You do not understand war!”</font></i>
+<i><font color='#f36f01'>-“I do not understand.”</font></i>
+
+365
+03:02:58,399 --> 03:02:59,000
+<i><font color='#f36f01'>- “Translate!”</font></i>
+
+366
+03:03:11,200 --> 03:03:17,840
+<font color='#f77404'>“Order_,</font>
+<font color='#f77404'>Calm_,</font>
+<font color='#f77404'>Silence_”</font>
+
+367
+03:04:24,200 --> 03:04:31,120
+<font color='#5db3ab'>Preparations for Combat.</font>
+
+368
+03:05:41,559 --> 03:05:45,040
+<i><font color='#5cb2a7'>“A little patience! It is</font></i>
+<i><font color='#5cb2a7'>seven in the evening.</font></i>
+
+369
+03:05:45,040 --> 03:05:49,399
+<i><font color='#5cb2a7'>We</font></i>
+<i><font color='#5cb2a7'>will surprise the enemy</font></i>
+<i><font color='#5cb2a7'>tomorrow at five in the</font></i>
+<i><font color='#5cb2a7'>morning!”</font></i>
+
+370
+03:05:59,040 --> 03:06:02,520
+<i><font color='#008b92'>“Smoking is prohibited,</font></i>
+<i><font color='#008b92'>but you can</font></i>
+<i><font color='#008b92'>sit down.”</font></i>
+
+371
+03:06:16,600 --> 03:06:22,399
+<i><font color='#008990'>“At what age did the little</font></i>
+<i><font color='#008990'>drummer Viala die?”</font></i>
+
+372
+03:06:27,680 --> 03:06:28,440
+<i><font color='#027c83'>“At thirteen years”</font></i>
+
+373
+03:06:37,399 --> 03:06:43,000
+<i><font color='#01878f'>“What luck! I then still</font></i>
+<i><font color='#01878f'>have six years left to live!”</font></i>
+
+374
+03:07:03,840 --> 03:07:10,920
+<font color='#006b78'>Napoléon was vested,</font>
+<font color='#006b78'>by the soldiers' wishes,</font>
+<font color='#006b78'>with the exercise of</font>
+
+375
+03:07:10,920 --> 03:07:16,239
+<font color='#006b78'>command even though</font>
+<font color='#006b78'>there were generals</font>
+<font color='#006b78'>present.</font>
+
+376
+03:07:54,680 --> 03:08:00,719
+<i><font color='#008890'>“We will fight, I</font></i>
+<i><font color='#008890'>authorize you to sing.”</font></i>
+
+377
+03:08:12,000 --> 03:08:17,280
+Mal- brough goes away to wa·r mi - ron
+ton - ton - ton mi - ron - tai - ne 
+
+378
+03:10:13,399 --> 03:10:20,600
+<font color='#02546d'>Despite the express prohibition</font>
+<font color='#02546d'>by the Commissioners to the</font>
+<font color='#02546d'>armies dreading the storm,</font>
+
+379
+03:10:20,600 --> 03:10:26,680
+<font color='#02546d'>Bonaparte gives the signal</font>
+<font color='#02546d'>to attack to the artillery.</font>
+<i><font color='#02546d'>(Historical)</font></i>
+
+380
+03:11:08,399 --> 03:11:17,840
+<font color='#e50001'>Divulging then a</font>
+<font color='#e50001'>magnificent plan of attack,</font>
+<font color='#e50001'>he launches the Victor and</font>
+<font color='#e50001'>Delaborde columns onto</font>
+
+381
+03:11:17,840 --> 03:11:26,360
+<font color='#e50001'>the Sardinian and Spanish wings,</font>
+<font color='#e50001'>saving for himself</font>
+<font color='#e50001'>the center attack on</font>
+<font color='#e50001'>the English.</font>
+
+382
+03:14:15,000 --> 03:14:21,360
+<font color='#df0100'>Dugommier's disobedience</font>
+<font color='#df0100'>of Napoléon's orders and his</font>
+
+383
+03:14:21,360 --> 03:14:28,239
+<font color='#df0100'>fortunately minor</font>
+<font color='#df0100'>injury lead to the</font>
+<font color='#df0100'>retreat of the French.</font>
+
+384
+03:16:00,600 --> 03:16:06,799
+<font color='#fd0001'>The Conventionals</font>
+<font color='#fd0001'>decide, at this moment,</font>
+<font color='#fd0001'>to suspend the assault.</font>
+
+385
+03:16:25,559 --> 03:16:29,840
+<i><font color='#fe0001'>“We have just</font></i>
+<i><font color='#fe0001'>guillotined in Paris</font></i>
+
+386
+03:16:29,840 --> 03:16:37,520
+<i><font color='#fe0001'>the generals Houchard</font></i>
+<i><font color='#fe0001'>and Custine for</font></i>
+<i><font color='#fe0001'>less serious mistakes.”</font></i>
+
+387
+03:16:46,840 --> 03:16:52,719
+<i><font color='#ff0102'>“Bonaparte has just</font></i>
+<i><font color='#ff0102'>committed the greatest</font></i>
+<i><font color='#ff0102'>crime in history.</font></i>
+
+388
+03:16:52,719 --> 03:16:55,879
+<i><font color='#ff0102'>This attack on</font></i>
+<i><font color='#ff0102'>a night like this!</font></i>
+
+389
+03:16:55,879 --> 03:17:03,840
+<i><font color='#ff0102'>It is such madness</font></i>
+<i><font color='#ff0102'>that his head would not suffice</font></i>
+<i><font color='#ff0102'>to pay for it! ”</font></i>
+<i><font color='#ff0102'>(Historical)</font></i>
+
+390
+03:17:13,840 --> 03:17:23,360
+Order to captain Bonaparte
+to suspend the attack
+right now
+General in Chief Dugommier
+
+391
+03:18:01,760 --> 03:18:11,719
+Order to captain Bonaparte
+to suspend the attack
+right now
+General in Chief Dugommier
+
+392
+03:18:41,120 --> 03:18:42,280
+<i><font color='#f30101'>“Orators!”</font></i>
+
+393
+03:19:17,280 --> 03:19:19,719
+<i><font color='#fe0100'>“Are you responsible</font></i>
+<i><font color='#fe0100'>for success?”</font></i>
+
+394
+03:19:33,840 --> 03:19:39,600
+<i><font color='#fd0000'>“The general in chief</font></i>
+<i><font color='#fd0000'>takes the responsibility</font></i>
+
+395
+03:19:39,600 --> 03:19:47,280
+<i><font color='#fd0000'>of operations on his head</font></i>
+<i><font color='#fd0000'>and decides to continue</font></i>
+<i><font color='#fd0000'>the siege.”</font></i>
+
+396
+03:20:45,000 --> 03:20:51,440
+<font color='#f00000'>Bonaparte never showed</font>
+<font color='#f00000'>a similar intrepidity </font>
+<font color='#f00000'>during his other campaigns.</font>
+
+397
+03:20:51,440 --> 03:21:00,799
+
+<font color='#f00000'>He is everywhere, sees everything,</font>
+<font color='#f00000'>is enough for anything. The lightning</font>
+<font color='#f00000'>from the sky and cannons surround him.</font>
+
+398
+03:21:00,799 --> 03:21:05,840
+<font color='#f00000'>He is in the fire, in his</font>
+<font color='#f00000'>element.</font>
+<i><font color='#f00000'>(Chuquet) (Hist.)</font></i>
+
+399
+03:22:09,040 --> 03:22:13,959
+<i><font color='#f20000'>“And tomorrow, my general,</font></i>
+<i><font color='#f20000'>you will sleep</font></i>
+<i><font color='#f20000'>in Toulon.”</font></i>
+
+400
+03:24:32,719 --> 03:24:34,520
+<i><font color='#dd0002'>“Turn the guns.”</font></i>
+
+401
+03:24:46,479 --> 03:24:54,760
+<font color='#e90003'>The English canonmen</font>
+<font color='#e90003'>are being hacked to pices on their</font>
+<font color='#e90003'>guns. Of all those</font>
+
+402
+03:24:54,760 --> 03:25:03,520
+<font color='#e90003'>who defend the redoubt,</font>
+<font color='#e90003'>there is not one who has no</font>
+<font color='#e90003'>injury.</font>
+<i><font color='#e90003'>(Historical)</font></i>
+
+403
+03:25:55,799 --> 03:25:59,520
+<font color='#e10000'>The Attack of Little</font>
+<font color='#e10000'>Gibraltar.</font>
+
+404
+03:26:53,559 --> 03:27:02,399
+<i><font color='#e20000'>“This is nothing,</font></i>
+<i><font color='#e20000'>I already saw all this</font></i>
+<i><font color='#e20000'>at Brienne!</font></i>
+<i><font color='#e20000'>Bold Straw Nose!”</font></i>
+
+405
+03:28:47,159 --> 03:28:53,559
+<font color='#ce0100'>The English general</font>
+<font color='#ce0100'>O'Hara orders the</font>
+<font color='#ce0100'>retreat.</font>
+
+406
+03:29:50,719 --> 03:29:52,440
+<i><font color='#e10001'>“Marcellin!”</font></i>
+
+407
+03:30:57,200 --> 03:31:02,959
+<font color='#cc0100'>And in the middle of obscurity,</font>
+<font color='#cc0100'>the rain, a terrible</font>
+<font color='#cc0100'>wind, the disorder</font>
+
+408
+03:31:02,959 --> 03:31:09,879
+<font color='#cc0100'>of cadavers, the screams of</font>
+<font color='#cc0100'>the wounded and the dying,</font>
+<font color='#cc0100'>we no longer shoot, we tackle</font>
+
+409
+03:31:09,879 --> 03:31:15,879
+<font color='#cc0100'>each other hand to hand. No</font>
+<font color='#cc0100'>other weapons than iron.</font>
+<font color='#cc0100'>(Napoléon's Memoirs)</font>
+
+410
+03:33:12,040 --> 03:33:16,280
+<i><font color='#d60102'>“Go get me</font></i>
+<i><font color='#d60102'>this young captain</font></i>
+<i><font color='#d60102'>who has been fighting</font></i>
+
+411
+03:33:16,280 --> 03:33:19,680
+<i><font color='#d60102'>like a tiger for</font></i>
+<i><font color='#d60102'>two hours.”</font></i>
+<i><font color='#d60102'>(Historical)</font></i>
+
+412
+03:33:54,000 --> 03:33:56,040
+<i><font color='#ba0001'>“Your name?”</font></i>
+
+413
+03:33:57,879 --> 03:34:00,120
+<i><font color='#d80000'>“Desaix.”</font></i>
+
+414
+03:34:47,559 --> 03:34:51,399
+<i><font color='#c85c04'>“Take out</font></i>
+<i><font color='#c85c04'>the English squadron...”</font></i>
+
+415
+03:35:15,000 --> 03:35:21,600
+<i><font color='#c75a03'>“...and burn</font></i>
+<i><font color='#c75a03'>the French squadron.”</font></i>
+
+416
+03:35:47,559 --> 03:35:55,719
+<font color='#ec0103'>The French troops,</font>
+<font color='#ec0103'>after 76 hours of</font>
+<font color='#ec0103'>combat in the mud and</font>
+<font color='#ec0103'>the storm, seized,</font>
+
+417
+03:35:55,719 --> 03:36:03,040
+<font color='#ec0103'>at 4 in the morning, the</font>
+<font color='#ec0103'>last English redoubt.</font>
+<i><font color='#ec0103'>(Napoléon's Memoirs)</font></i>
+
+418
+03:36:13,920 --> 03:36:19,719
+<i><font color='#d80001'>“The drums?</font></i>
+<i><font color='#d80001'>Where are the drums</font></i>
+<i><font color='#d80001'>of the 6th?”</font></i>
+
+419
+03:36:45,479 --> 03:36:48,680
+<i><font color='#d90100'>“The drums?</font></i>
+<i><font color='#d90100'>Present!!”</font></i>
+
+420
+03:36:51,000 --> 03:36:54,559
+<font color='#de0101'>Fallen under gunfire, the</font>
+<font color='#de0101'>drums of the 6th were going</font>
+
+421
+03:36:54,559 --> 03:36:58,600
+<font color='#de0101'>to be replaced in their</font>
+<font color='#de0101'>task by an unforeseen</font>
+<font color='#de0101'>auxiliary...</font>
+
+422
+03:37:03,760 --> 03:37:06,040
+<font color='#e00202'>...hail.</font>
+
+423
+03:38:22,360 --> 03:38:28,239
+<i><font color='#d70000'>“I believe</font></i>
+<i><font color='#d70000'>that this man</font></i>
+<i><font color='#d70000'>will save France.”</font></i>
+
+424
+03:38:48,159 --> 03:38:55,959
+<font color='#d10102'>After the Victory.</font>
+
+425
+03:39:59,319 --> 03:40:05,799
+<font color='#cd0000'>At dawn, from the top</font>
+<font color='#cd0000'>of the Aiguillette, one of</font>
+<font color='#cd0000'>the greatest spectacles</font>
+
+426
+03:40:05,799 --> 03:40:12,600
+<font color='#cd0000'>that had struck the imagination</font>
+<font color='#cd0000'>of Napoleon offered itself to</font>
+<font color='#cd0000'>his view.</font>
+<i><font color='#cd0000'>(Chuquet)</font></i>
+
+427
+03:42:07,319 --> 03:42:13,959
+<i><font color='#da0000'>“What... is the name of...</font></i>
+<i><font color='#da0000'>this captain?”</font></i>
+
+428
+03:42:15,280 --> 03:42:18,520
+<i><font color='#d20000'>“Napoléon Bonaparte.”</font></i>
+
+429
+03:42:45,079 --> 03:42:52,959
+<font color='#b34f04'>At dawn, the commissioners</font>
+<font color='#b34f04'>of the Armies who came to give</font>
+<font color='#b34f04'>him, as a token of</font>
+
+430
+03:42:52,959 --> 03:43:02,840
+<font color='#b34f04'>apology, the rank of brigadier</font>
+<font color='#b34f04'>general, find him asleep,</font>
+<font color='#b34f04'>his head on a drum.</font>
+<i><font color='#b34f04'>(Historical)</font></i>
+
+431
+03:43:32,639 --> 03:43:37,399
+<i><font color='#f26e02'>“Here is</font></i>
+<i><font color='#f26e02'>the taker of Toulon!”</font></i>
+<i><font color='#f26e02'>(Historical)</font></i>
+
+432
+03:44:51,040 --> 03:44:55,840
+<font color='#ec6b00'>End of the</font>
+<font color='#ec6b00'>First Part.</font>
+
